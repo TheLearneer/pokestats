@@ -1,0 +1,200 @@
+[
+	{
+		"id": 1,
+		"name": "Normal",
+		"effectiveness": {
+			"offense": {
+				"noEffect": ["Ghost"],
+				"notVeryEffective": ["Rock", "Steel"],
+				"superEffective": []
+			}
+		}
+	},
+	{
+		"id": 2,
+		"name": "Fighting",
+		"effectiveness": {
+			"offense": {
+				"noEffect": ["Ghost"],
+				"notVeryEffective": ["Bug", "Fairy", "Flying", "Poison", "Psychic"],
+				"superEffective": ["Dark", "Ice", "Normal", "Rock", "Steel"]
+			}
+		}
+	},
+	{
+		"id": 3,
+		"name": "Flying",
+		"effectiveness": {
+			"offense": {
+				"noEffect": [],
+				"notVeryEffective": ["Electric", "Rock", "Steel"],
+				"superEffective": ["Bug", "Fighting", "Grass"]
+			}
+		}
+	},
+	{
+		"id": 4,
+		"name": "Poison",
+		"effectiveness": {
+			"offense": {
+				"noEffect": ["Steel"],
+				"notVeryEffective": ["Poison", "Ground", "Rock", "Ghost"],
+				"superEffective": ["Fairy", "Grass"]
+			}
+		}
+	},
+	{
+		"id": 5,
+		"name": "Ground",
+		"effectiveness": {
+			"offense": {
+				"noEffect": ["Flying"],
+				"notVeryEffective": ["Bug", "Grass"],
+				"superEffective": ["Electric", "Fire", "Poison", "Rock", "Steel"]
+			}
+		}
+	},
+	{
+		"id": 6,
+		"name": "Rock",
+		"effectiveness": {
+			"offense": {
+				"noEffect": [],
+				"notVeryEffective": ["Fighting", "Ground", "Steel"],
+				"superEffective": ["Bug", "Fire", "Flying", "Ice"]
+			}
+		}
+	},
+	{
+		"id": 7,
+		"name": "Bug",
+		"effectiveness": {
+			"offense": {
+				"noEffect": [],
+				"notVeryEffective": ["Fairy", "Fighting", "Fire", "Flying", "Ghost", "Poison", "Steel"],
+				"superEffective": ["Dark", "Grass", "Psychic"]
+			}
+		}
+	},
+	{
+		"id": 8,
+		"name": "Ghost",
+		"effectiveness": {
+			"offense": {
+				"noEffect": ["Normal"],
+				"notVeryEffective": ["Dark"],
+				"superEffective": ["Ghost", "Psychic"]
+			}
+		}
+	},
+	{
+		"id": 9,
+		"name": "Steel",
+		"effectiveness": {
+			"offense": {
+				"noEffect": [],
+				"notVeryEffective": ["Electric", "Fire", "Steel", "Water"],
+				"superEffective": ["Fairy", "Ice", "Rock"]
+			}
+		}
+	},
+	{
+		"id": 10,
+		"name": "Fire",
+		"effectiveness": {
+			"offense": {
+				"noEffect": [],
+				"notVeryEffective": ["Dragon", "Fire", "Rock", "Water"],
+				"superEffective": ["Bug", "Grass", "Ice"]
+			}
+		}
+	},
+	{
+		"id": 11,
+		"name": "Water",
+		"effectiveness": {
+			"offense": {
+				"noEffect": [],
+				"notVeryEffective": ["Dragon", "Grass", "Water"],
+				"superEffective": ["Fire", "Ground", "Rock"]
+			}
+		}
+	},
+	{
+		"id": 12,
+		"name": "Grass",
+		"effectiveness": {
+			"offense": {
+				"noEffect": [],
+				"notVeryEffective": ["Bug", "Dragon", "Fire", "Flying", "Grass", "Poison"],
+				"superEffective": ["Ground", "Rock", "Water"]
+			}
+		}
+	},
+	{
+		"id": 13,
+		"name": "Electric",
+		"effectiveness": {
+			"offense": {
+				"noEffect": ["Ground"],
+				"notVeryEffective": ["Dragon", "Electric", "Grass"],
+				"superEffective": ["Flying", "Water"]
+			}
+		}
+	},
+	{
+		"id": 14,
+		"name": "Psychic",
+		"effectiveness": {
+			"offense": {
+				"noEffect": ["Dark"],
+				"notVeryEffective": ["Psychic", "Steel"],
+				"superEffective": ["Fighting", "Poison"]
+			}
+		}
+	},
+	{
+		"id": 15,
+		"name": "Ice",
+		"effectiveness": {
+			"offense": {
+				"noEffect": [],
+				"notVeryEffective": ["Fire", "Ice", "Steel", "Water"],
+				"superEffective": ["Dragon", "Flying", "Grass", "Ground"]
+			}
+		}
+	},
+	{
+		"id": 16,
+		"name": "Dragon",
+		"effectiveness": {
+			"offense": {
+				"noEffect": ["Fairy"],
+				"notVeryEffective": ["Steel"],
+				"superEffective": ["Dragon"]
+			}
+		}
+	},
+	{
+		"id": 17,
+		"name": "Dark",
+		"effectiveness": {
+			"offense": {
+				"noEffect": [],
+				"notVeryEffective": ["Dark", "Fairy", "Fighting"],
+				"superEffective": ["Ghost", "Psychic"]
+			}
+		}
+	},
+	{
+		"id": 18,
+		"name": "Fairy",
+		"effectiveness": {
+			"offense": {
+				"noEffect": [],
+				"notVeryEffective": ["Fire", "Poison", "Steel"],
+				"superEffective": ["Dark", "Dragon", "Fighting"]
+			}
+		}
+	}
+]
