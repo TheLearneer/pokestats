@@ -1,0 +1,5833 @@
+[
+	{
+		"id": 152,
+		"name": "Chikorita",
+		"species": "Leaf Pokémon",
+		"weight": {
+			"lbs": "14.1 lbs",
+			"kg": "6.4 kg"
+		},
+		"types": [
+			12
+		],
+		"abilities": {
+			"normal": [
+				65
+			],
+			"hidden": [
+				102
+			]
+		},
+		"eggGroups": [
+			"Plant",
+			"Monster"
+		],
+		"genderRatio": "87.5% male 12.5% female",
+		"eggCycle": 20,
+		"growthRate": "Medium Slow",
+		"catchRate": 45,
+		"baseFriendship": 70,
+		"baseExp": 64,
+		"stats": {
+			"speed": {
+				"base": 45,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 65,
+				"effort": 1
+			},
+			"specialAttack": {
+				"base": 49,
+				"effort": 0
+			},
+			"defense": {
+				"base": 65,
+				"effort": 0
+			},
+			"attack": {
+				"base": 49,
+				"effort": 0
+			},
+			"hp": {
+				"base": 45,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "green",
+		"generation": 2
+	},
+	{
+		"id": 153,
+		"name": "Bayleef",
+		"species": "Leaf Pokémon",
+		"weight": {
+			"lbs": "34.8 lbs",
+			"kg": "15.8 kg"
+		},
+		"types": [
+			12
+		],
+		"abilities": {
+			"normal": [
+				65
+			],
+			"hidden": [
+				102
+			]
+		},
+		"eggGroups": [
+			"Plant",
+			"Monster"
+		],
+		"genderRatio": "87.5% male 12.5% female",
+		"eggCycle": 20,
+		"growthRate": "Medium Slow",
+		"catchRate": 45,
+		"baseFriendship": 70,
+		"baseExp": 142,
+		"stats": {
+			"speed": {
+				"base": 60,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 80,
+				"effort": 1
+			},
+			"specialAttack": {
+				"base": 63,
+				"effort": 0
+			},
+			"defense": {
+				"base": 80,
+				"effort": 1
+			},
+			"attack": {
+				"base": 62,
+				"effort": 0
+			},
+			"hp": {
+				"base": 60,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "green",
+		"generation": 2
+	},
+	{
+		"id": 154,
+		"name": "Meganium",
+		"species": "Herb Pokémon",
+		"weight": {
+			"lbs": "221.6 lbs",
+			"kg": "100.5 kg"
+		},
+		"types": [
+			12
+		],
+		"abilities": {
+			"normal": [
+				65
+			],
+			"hidden": [
+				102
+			]
+		},
+		"eggGroups": [
+			"Plant",
+			"Monster"
+		],
+		"genderRatio": "87.5% male 12.5% female",
+		"eggCycle": 20,
+		"growthRate": "Medium Slow",
+		"catchRate": 45,
+		"baseFriendship": 70,
+		"baseExp": 236,
+		"stats": {
+			"speed": {
+				"base": 80,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 100,
+				"effort": 2
+			},
+			"specialAttack": {
+				"base": 83,
+				"effort": 0
+			},
+			"defense": {
+				"base": 100,
+				"effort": 1
+			},
+			"attack": {
+				"base": 82,
+				"effort": 0
+			},
+			"hp": {
+				"base": 80,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "green",
+		"generation": 2
+	},
+	{
+		"id": 155,
+		"name": "Cyndaquil",
+		"species": "Fire Mouse Pokémon",
+		"weight": {
+			"lbs": "17.4 lbs",
+			"kg": "7.9 kg"
+		},
+		"types": [
+			10
+		],
+		"abilities": {
+			"normal": [
+				66
+			],
+			"hidden": [
+				18
+			]
+		},
+		"eggGroups": [
+			"Ground"
+		],
+		"genderRatio": "87.5% male 12.5% female",
+		"eggCycle": 20,
+		"growthRate": "Medium Slow",
+		"catchRate": 45,
+		"baseFriendship": 70,
+		"baseExp": 62,
+		"stats": {
+			"speed": {
+				"base": 65,
+				"effort": 1
+			},
+			"specialDefense": {
+				"base": 50,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 60,
+				"effort": 0
+			},
+			"defense": {
+				"base": 43,
+				"effort": 0
+			},
+			"attack": {
+				"base": 52,
+				"effort": 0
+			},
+			"hp": {
+				"base": 39,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "yellow",
+		"generation": 2
+	},
+	{
+		"id": 156,
+		"name": "Quilava",
+		"species": "Volcano Pokémon",
+		"weight": {
+			"lbs": "41.9 lbs",
+			"kg": "19.0 kg"
+		},
+		"types": [
+			10
+		],
+		"abilities": {
+			"normal": [
+				66
+			],
+			"hidden": [
+				18
+			]
+		},
+		"eggGroups": [
+			"Ground"
+		],
+		"genderRatio": "87.5% male 12.5% female",
+		"eggCycle": 20,
+		"growthRate": "Medium Slow",
+		"catchRate": 45,
+		"baseFriendship": 70,
+		"baseExp": 142,
+		"stats": {
+			"speed": {
+				"base": 80,
+				"effort": 1
+			},
+			"specialDefense": {
+				"base": 65,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 80,
+				"effort": 1
+			},
+			"defense": {
+				"base": 58,
+				"effort": 0
+			},
+			"attack": {
+				"base": 64,
+				"effort": 0
+			},
+			"hp": {
+				"base": 58,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "yellow",
+		"generation": 2
+	},
+	{
+		"id": 157,
+		"name": "Typhlosion",
+		"species": "Volcano Pokémon",
+		"weight": {
+			"lbs": "175.3 lbs",
+			"kg": "79.5 kg"
+		},
+		"types": [
+			10
+		],
+		"abilities": {
+			"normal": [
+				66
+			],
+			"hidden": [
+				18
+			]
+		},
+		"eggGroups": [
+			"Ground"
+		],
+		"genderRatio": "87.5% male 12.5% female",
+		"eggCycle": 20,
+		"growthRate": "Medium Slow",
+		"catchRate": 45,
+		"baseFriendship": 70,
+		"baseExp": 240,
+		"stats": {
+			"speed": {
+				"base": 100,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 85,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 109,
+				"effort": 3
+			},
+			"defense": {
+				"base": 78,
+				"effort": 0
+			},
+			"attack": {
+				"base": 84,
+				"effort": 0
+			},
+			"hp": {
+				"base": 78,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "yellow",
+		"generation": 2
+	},
+	{
+		"id": 158,
+		"name": "Totodile",
+		"species": "Big Jaw Pokémon",
+		"weight": {
+			"lbs": "20.9 lbs",
+			"kg": "9.5 kg"
+		},
+		"types": [
+			11
+		],
+		"abilities": {
+			"normal": [
+				67
+			],
+			"hidden": [
+				125
+			]
+		},
+		"eggGroups": [
+			"Water1",
+			"Monster"
+		],
+		"genderRatio": "87.5% male 12.5% female",
+		"eggCycle": 20,
+		"growthRate": "Medium Slow",
+		"catchRate": 45,
+		"baseFriendship": 70,
+		"baseExp": 63,
+		"stats": {
+			"speed": {
+				"base": 43,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 48,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 44,
+				"effort": 0
+			},
+			"defense": {
+				"base": 64,
+				"effort": 0
+			},
+			"attack": {
+				"base": 65,
+				"effort": 1
+			},
+			"hp": {
+				"base": 50,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "blue",
+		"generation": 2
+	},
+	{
+		"id": 159,
+		"name": "Croconaw",
+		"species": "Big Jaw Pokémon",
+		"weight": {
+			"lbs": "55.1 lbs",
+			"kg": "25.0 kg"
+		},
+		"types": [
+			11
+		],
+		"abilities": {
+			"normal": [
+				67
+			],
+			"hidden": [
+				125
+			]
+		},
+		"eggGroups": [
+			"Water1",
+			"Monster"
+		],
+		"genderRatio": "87.5% male 12.5% female",
+		"eggCycle": 20,
+		"growthRate": "Medium Slow",
+		"catchRate": 45,
+		"baseFriendship": 70,
+		"baseExp": 142,
+		"stats": {
+			"speed": {
+				"base": 58,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 63,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 59,
+				"effort": 0
+			},
+			"defense": {
+				"base": 80,
+				"effort": 1
+			},
+			"attack": {
+				"base": 80,
+				"effort": 1
+			},
+			"hp": {
+				"base": 65,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "blue",
+		"generation": 2
+	},
+	{
+		"id": 160,
+		"name": "Feraligatr",
+		"species": "Big Jaw Pokémon",
+		"weight": {
+			"lbs": "195.8 lbs",
+			"kg": "88.8 kg"
+		},
+		"types": [
+			11
+		],
+		"abilities": {
+			"normal": [
+				67
+			],
+			"hidden": [
+				125
+			]
+		},
+		"eggGroups": [
+			"Water1",
+			"Monster"
+		],
+		"genderRatio": "87.5% male 12.5% female",
+		"eggCycle": 20,
+		"growthRate": "Medium Slow",
+		"catchRate": 45,
+		"baseFriendship": 70,
+		"baseExp": 239,
+		"stats": {
+			"speed": {
+				"base": 78,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 83,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 79,
+				"effort": 0
+			},
+			"defense": {
+				"base": 100,
+				"effort": 1
+			},
+			"attack": {
+				"base": 105,
+				"effort": 2
+			},
+			"hp": {
+				"base": 85,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "blue",
+		"generation": 2
+	},
+	{
+		"id": 161,
+		"name": "Sentret",
+		"species": "Scout Pokémon",
+		"weight": {
+			"lbs": "13.2 lbs",
+			"kg": "6.0 kg"
+		},
+		"types": [
+			1
+		],
+		"abilities": {
+			"normal": [
+				50,
+				51
+			],
+			"hidden": [
+				119
+			]
+		},
+		"eggGroups": [
+			"Ground"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 15,
+		"growthRate": "Medium",
+		"catchRate": 255,
+		"baseFriendship": 70,
+		"baseExp": 43,
+		"stats": {
+			"speed": {
+				"base": 20,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 45,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 35,
+				"effort": 0
+			},
+			"defense": {
+				"base": 34,
+				"effort": 0
+			},
+			"attack": {
+				"base": 46,
+				"effort": 1
+			},
+			"hp": {
+				"base": 35,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "brown",
+		"generation": 2
+	},
+	{
+		"id": 162,
+		"name": "Furret",
+		"species": "Long Body Pokémon",
+		"weight": {
+			"lbs": "71.6 lbs",
+			"kg": "32.5 kg"
+		},
+		"types": [
+			1
+		],
+		"abilities": {
+			"normal": [
+				50,
+				51
+			],
+			"hidden": [
+				119
+			]
+		},
+		"eggGroups": [
+			"Ground"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 15,
+		"growthRate": "Medium",
+		"catchRate": 90,
+		"baseFriendship": 70,
+		"baseExp": 145,
+		"stats": {
+			"speed": {
+				"base": 90,
+				"effort": 2
+			},
+			"specialDefense": {
+				"base": 55,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 45,
+				"effort": 0
+			},
+			"defense": {
+				"base": 64,
+				"effort": 0
+			},
+			"attack": {
+				"base": 76,
+				"effort": 0
+			},
+			"hp": {
+				"base": 85,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "brown",
+		"generation": 2
+	},
+	{
+		"id": 163,
+		"name": "Hoothoot",
+		"species": "Owl Pokémon",
+		"weight": {
+			"lbs": "46.7 lbs",
+			"kg": "21.2 kg"
+		},
+		"types": [
+			1,
+			3
+		],
+		"abilities": {
+			"normal": [
+				15,
+				51
+			],
+			"hidden": [
+				110
+			]
+		},
+		"eggGroups": [
+			"Flying"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 15,
+		"growthRate": "Medium",
+		"catchRate": 255,
+		"baseFriendship": 70,
+		"baseExp": 52,
+		"stats": {
+			"speed": {
+				"base": 50,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 56,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 36,
+				"effort": 0
+			},
+			"defense": {
+				"base": 30,
+				"effort": 0
+			},
+			"attack": {
+				"base": 30,
+				"effort": 0
+			},
+			"hp": {
+				"base": 60,
+				"effort": 1
+			}
+		},
+		"pokedexColor": "brown",
+		"generation": 2
+	},
+	{
+		"id": 164,
+		"name": "Noctowl",
+		"species": "Owl Pokémon",
+		"weight": {
+			"lbs": "89.9 lbs",
+			"kg": "40.8 kg"
+		},
+		"types": [
+			1,
+			3
+		],
+		"abilities": {
+			"normal": [
+				15,
+				51
+			],
+			"hidden": [
+				110
+			]
+		},
+		"eggGroups": [
+			"Flying"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 15,
+		"growthRate": "Medium",
+		"catchRate": 90,
+		"baseFriendship": 70,
+		"baseExp": 158,
+		"stats": {
+			"speed": {
+				"base": 70,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 96,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 86,
+				"effort": 0
+			},
+			"defense": {
+				"base": 50,
+				"effort": 0
+			},
+			"attack": {
+				"base": 50,
+				"effort": 0
+			},
+			"hp": {
+				"base": 100,
+				"effort": 2
+			}
+		},
+		"pokedexColor": "brown",
+		"generation": 2
+	},
+	{
+		"id": 165,
+		"name": "Ledyba",
+		"species": "Five Star Pokémon",
+		"weight": {
+			"lbs": "23.8 lbs",
+			"kg": "10.8 kg"
+		},
+		"types": [
+			7,
+			3
+		],
+		"abilities": {
+			"normal": [
+				68,
+				48
+			],
+			"hidden": [
+				155
+			]
+		},
+		"eggGroups": [
+			"Bug"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 15,
+		"growthRate": "Fast",
+		"catchRate": 255,
+		"baseFriendship": 70,
+		"baseExp": 53,
+		"stats": {
+			"speed": {
+				"base": 55,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 80,
+				"effort": 1
+			},
+			"specialAttack": {
+				"base": 40,
+				"effort": 0
+			},
+			"defense": {
+				"base": 30,
+				"effort": 0
+			},
+			"attack": {
+				"base": 20,
+				"effort": 0
+			},
+			"hp": {
+				"base": 40,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "red",
+		"generation": 2
+	},
+	{
+		"id": 166,
+		"name": "Ledian",
+		"species": "Five Star Pokémon",
+		"weight": {
+			"lbs": "78.5 lbs",
+			"kg": "35.6 kg"
+		},
+		"types": [
+			7,
+			3
+		],
+		"abilities": {
+			"normal": [
+				68,
+				48
+			],
+			"hidden": [
+				89
+			]
+		},
+		"eggGroups": [
+			"Bug"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 15,
+		"growthRate": "Fast",
+		"catchRate": 90,
+		"baseFriendship": 70,
+		"baseExp": 137,
+		"stats": {
+			"speed": {
+				"base": 85,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 110,
+				"effort": 2
+			},
+			"specialAttack": {
+				"base": 55,
+				"effort": 0
+			},
+			"defense": {
+				"base": 50,
+				"effort": 0
+			},
+			"attack": {
+				"base": 35,
+				"effort": 0
+			},
+			"hp": {
+				"base": 55,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "red",
+		"generation": 2
+	},
+	{
+		"id": 167,
+		"name": "Spinarak",
+		"species": "String Spit Pokémon",
+		"weight": {
+			"lbs": "18.7 lbs",
+			"kg": "8.5 kg"
+		},
+		"types": [
+			7,
+			4
+		],
+		"abilities": {
+			"normal": [
+				68,
+				15
+			],
+			"hidden": [
+				97
+			]
+		},
+		"eggGroups": [
+			"Bug"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 15,
+		"growthRate": "Fast",
+		"catchRate": 255,
+		"baseFriendship": 70,
+		"baseExp": 50,
+		"stats": {
+			"speed": {
+				"base": 30,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 40,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 40,
+				"effort": 0
+			},
+			"defense": {
+				"base": 40,
+				"effort": 0
+			},
+			"attack": {
+				"base": 60,
+				"effort": 1
+			},
+			"hp": {
+				"base": 40,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "green",
+		"generation": 2
+	},
+	{
+		"id": 168,
+		"name": "Ariados",
+		"species": "Long Leg Pokémon",
+		"weight": {
+			"lbs": "73.9 lbs",
+			"kg": "33.5 kg"
+		},
+		"types": [
+			7,
+			4
+		],
+		"abilities": {
+			"normal": [
+				68,
+				15
+			],
+			"hidden": [
+				97
+			]
+		},
+		"eggGroups": [
+			"Bug"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 15,
+		"growthRate": "Fast",
+		"catchRate": 90,
+		"baseFriendship": 70,
+		"baseExp": 140,
+		"stats": {
+			"speed": {
+				"base": 40,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 70,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 60,
+				"effort": 0
+			},
+			"defense": {
+				"base": 70,
+				"effort": 0
+			},
+			"attack": {
+				"base": 90,
+				"effort": 2
+			},
+			"hp": {
+				"base": 70,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "red",
+		"generation": 2
+	},
+	{
+		"id": 169,
+		"name": "Crobat",
+		"species": "Bat Pokémon",
+		"weight": {
+			"lbs": "165.3 lbs",
+			"kg": "75.0 kg"
+		},
+		"types": [
+			4,
+			3
+		],
+		"abilities": {
+			"normal": [
+				39
+			],
+			"hidden": [
+				151
+			]
+		},
+		"eggGroups": [
+			"Flying"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 15,
+		"growthRate": "Medium",
+		"catchRate": 90,
+		"baseFriendship": 70,
+		"baseExp": 241,
+		"stats": {
+			"speed": {
+				"base": 130,
+				"effort": 3
+			},
+			"specialDefense": {
+				"base": 80,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 70,
+				"effort": 0
+			},
+			"defense": {
+				"base": 80,
+				"effort": 0
+			},
+			"attack": {
+				"base": 90,
+				"effort": 0
+			},
+			"hp": {
+				"base": 85,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "purple",
+		"generation": 2
+	},
+	{
+		"id": 170,
+		"name": "Chinchou",
+		"species": "Angler Pokémon",
+		"weight": {
+			"lbs": "26.5 lbs",
+			"kg": "12.0 kg"
+		},
+		"types": [
+			11,
+			13
+		],
+		"abilities": {
+			"normal": [
+				10,
+				35
+			],
+			"hidden": [
+				11
+			]
+		},
+		"eggGroups": [
+			"Water2"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 20,
+		"growthRate": "Slow",
+		"catchRate": 190,
+		"baseFriendship": 70,
+		"baseExp": 66,
+		"stats": {
+			"speed": {
+				"base": 67,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 56,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 56,
+				"effort": 0
+			},
+			"defense": {
+				"base": 38,
+				"effort": 0
+			},
+			"attack": {
+				"base": 38,
+				"effort": 0
+			},
+			"hp": {
+				"base": 75,
+				"effort": 1
+			}
+		},
+		"pokedexColor": "blue",
+		"generation": 2
+	},
+	{
+		"id": 171,
+		"name": "Lanturn",
+		"species": "Light Pokémon",
+		"weight": {
+			"lbs": "49.6 lbs",
+			"kg": "22.5 kg"
+		},
+		"types": [
+			11,
+			13
+		],
+		"abilities": {
+			"normal": [
+				10,
+				35
+			],
+			"hidden": [
+				11
+			]
+		},
+		"eggGroups": [
+			"Water2"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 20,
+		"growthRate": "Slow",
+		"catchRate": 75,
+		"baseFriendship": 70,
+		"baseExp": 161,
+		"stats": {
+			"speed": {
+				"base": 67,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 76,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 76,
+				"effort": 0
+			},
+			"defense": {
+				"base": 58,
+				"effort": 0
+			},
+			"attack": {
+				"base": 58,
+				"effort": 0
+			},
+			"hp": {
+				"base": 125,
+				"effort": 2
+			}
+		},
+		"pokedexColor": "blue",
+		"generation": 2
+	},
+	{
+		"id": 172,
+		"name": "Pichu",
+		"species": "Tiny Mouse Pokémon",
+		"weight": {
+			"lbs": "4.4 lbs",
+			"kg": "2.0 kg"
+		},
+		"types": [
+			13
+		],
+		"abilities": {
+			"normal": [
+				9
+			],
+			"hidden": [
+				31
+			]
+		},
+		"eggGroups": [
+			"No Eggs"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 10,
+		"growthRate": "Medium",
+		"catchRate": 190,
+		"baseFriendship": 70,
+		"baseExp": 41,
+		"stats": {
+			"speed": {
+				"base": 60,
+				"effort": 1
+			},
+			"specialDefense": {
+				"base": 35,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 35,
+				"effort": 0
+			},
+			"defense": {
+				"base": 15,
+				"effort": 0
+			},
+			"attack": {
+				"base": 40,
+				"effort": 0
+			},
+			"hp": {
+				"base": 20,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "yellow",
+		"generation": 2
+	},
+	{
+		"id": 173,
+		"name": "Cleffa",
+		"species": "Star Shape Pokémon",
+		"weight": {
+			"lbs": "6.6 lbs",
+			"kg": "3.0 kg"
+		},
+		"types": [
+			18
+		],
+		"abilities": {
+			"normal": [
+				56,
+				98
+			],
+			"hidden": [
+				132
+			]
+		},
+		"eggGroups": [
+			"No Eggs"
+		],
+		"genderRatio": "25% male 75% female",
+		"eggCycle": 10,
+		"growthRate": "Fast",
+		"catchRate": 150,
+		"baseFriendship": 140,
+		"baseExp": 44,
+		"stats": {
+			"speed": {
+				"base": 15,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 55,
+				"effort": 1
+			},
+			"specialAttack": {
+				"base": 45,
+				"effort": 0
+			},
+			"defense": {
+				"base": 28,
+				"effort": 0
+			},
+			"attack": {
+				"base": 25,
+				"effort": 0
+			},
+			"hp": {
+				"base": 50,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "pink",
+		"generation": 2
+	},
+	{
+		"id": 174,
+		"name": "Igglybuff",
+		"species": "Balloon Pokémon",
+		"weight": {
+			"lbs": "2.2 lbs",
+			"kg": "1.0 kg"
+		},
+		"types": [
+			1,
+			18
+		],
+		"abilities": {
+			"normal": [
+				56,
+				172
+			],
+			"hidden": [
+				132
+			]
+		},
+		"eggGroups": [
+			"No Eggs"
+		],
+		"genderRatio": "25% male 75% female",
+		"eggCycle": 10,
+		"growthRate": "Fast",
+		"catchRate": 170,
+		"baseFriendship": 70,
+		"baseExp": 42,
+		"stats": {
+			"speed": {
+				"base": 15,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 20,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 40,
+				"effort": 0
+			},
+			"defense": {
+				"base": 15,
+				"effort": 0
+			},
+			"attack": {
+				"base": 30,
+				"effort": 0
+			},
+			"hp": {
+				"base": 90,
+				"effort": 1
+			}
+		},
+		"pokedexColor": "pink",
+		"generation": 2
+	},
+	{
+		"id": 175,
+		"name": "Togepi",
+		"species": "Spike Ball Pokémon",
+		"weight": {
+			"lbs": "3.3 lbs",
+			"kg": "1.5 kg"
+		},
+		"types": [
+			18
+		],
+		"abilities": {
+			"normal": [
+				55,
+				32
+			],
+			"hidden": [
+				105
+			]
+		},
+		"eggGroups": [
+			"No Eggs"
+		],
+		"genderRatio": "87.5% male 12.5% female",
+		"eggCycle": 10,
+		"growthRate": "Fast",
+		"catchRate": 190,
+		"baseFriendship": 70,
+		"baseExp": 49,
+		"stats": {
+			"speed": {
+				"base": 20,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 65,
+				"effort": 1
+			},
+			"specialAttack": {
+				"base": 40,
+				"effort": 0
+			},
+			"defense": {
+				"base": 65,
+				"effort": 0
+			},
+			"attack": {
+				"base": 20,
+				"effort": 0
+			},
+			"hp": {
+				"base": 35,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "white",
+		"generation": 2
+	},
+	{
+		"id": 176,
+		"name": "Togetic",
+		"species": "Happiness Pokémon",
+		"weight": {
+			"lbs": "7.1 lbs",
+			"kg": "3.2 kg"
+		},
+		"types": [
+			18,
+			3
+		],
+		"abilities": {
+			"normal": [
+				55,
+				32
+			],
+			"hidden": [
+				105
+			]
+		},
+		"eggGroups": [
+			"Fairy",
+			"Flying"
+		],
+		"genderRatio": "87.5% male 12.5% female",
+		"eggCycle": 10,
+		"growthRate": "Fast",
+		"catchRate": 75,
+		"baseFriendship": 70,
+		"baseExp": 142,
+		"stats": {
+			"speed": {
+				"base": 40,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 105,
+				"effort": 2
+			},
+			"specialAttack": {
+				"base": 80,
+				"effort": 0
+			},
+			"defense": {
+				"base": 85,
+				"effort": 0
+			},
+			"attack": {
+				"base": 40,
+				"effort": 0
+			},
+			"hp": {
+				"base": 55,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "white",
+		"generation": 2
+	},
+	{
+		"id": 177,
+		"name": "Natu",
+		"species": "Tiny Bird Pokémon",
+		"weight": {
+			"lbs": "4.4 lbs",
+			"kg": "2.0 kg"
+		},
+		"types": [
+			14,
+			3
+		],
+		"abilities": {
+			"normal": [
+				28,
+				48
+			],
+			"hidden": [
+				156
+			]
+		},
+		"eggGroups": [
+			"Flying"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 20,
+		"growthRate": "Medium",
+		"catchRate": 190,
+		"baseFriendship": 70,
+		"baseExp": 64,
+		"stats": {
+			"speed": {
+				"base": 70,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 45,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 70,
+				"effort": 1
+			},
+			"defense": {
+				"base": 45,
+				"effort": 0
+			},
+			"attack": {
+				"base": 50,
+				"effort": 0
+			},
+			"hp": {
+				"base": 40,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "green",
+		"generation": 2
+	},
+	{
+		"id": 178,
+		"name": "Xatu",
+		"species": "Mystic Pokémon",
+		"weight": {
+			"lbs": "33.1 lbs",
+			"kg": "15.0 kg"
+		},
+		"types": [
+			14,
+			3
+		],
+		"abilities": {
+			"normal": [
+				28,
+				48
+			],
+			"hidden": [
+				156
+			]
+		},
+		"eggGroups": [
+			"Flying"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 20,
+		"growthRate": "Medium",
+		"catchRate": 75,
+		"baseFriendship": 70,
+		"baseExp": 165,
+		"stats": {
+			"speed": {
+				"base": 95,
+				"effort": 1
+			},
+			"specialDefense": {
+				"base": 70,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 95,
+				"effort": 1
+			},
+			"defense": {
+				"base": 70,
+				"effort": 0
+			},
+			"attack": {
+				"base": 75,
+				"effort": 0
+			},
+			"hp": {
+				"base": 65,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "green",
+		"generation": 2
+	},
+	{
+		"id": 179,
+		"name": "Mareep",
+		"species": "Wool Pokémon",
+		"weight": {
+			"lbs": "17.2 lbs",
+			"kg": "7.8 kg"
+		},
+		"types": [
+			13
+		],
+		"abilities": {
+			"normal": [
+				9
+			],
+			"hidden": [
+				57
+			]
+		},
+		"eggGroups": [
+			"Ground",
+			"Monster"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 20,
+		"growthRate": "Medium Slow",
+		"catchRate": 235,
+		"baseFriendship": 70,
+		"baseExp": 56,
+		"stats": {
+			"speed": {
+				"base": 35,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 45,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 65,
+				"effort": 1
+			},
+			"defense": {
+				"base": 40,
+				"effort": 0
+			},
+			"attack": {
+				"base": 40,
+				"effort": 0
+			},
+			"hp": {
+				"base": 55,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "white",
+		"generation": 2
+	},
+	{
+		"id": 180,
+		"name": "Flaaffy",
+		"species": "Wool Pokémon",
+		"weight": {
+			"lbs": "29.3 lbs",
+			"kg": "13.3 kg"
+		},
+		"types": [
+			13
+		],
+		"abilities": {
+			"normal": [
+				9
+			],
+			"hidden": [
+				57
+			]
+		},
+		"eggGroups": [
+			"Ground",
+			"Monster"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 20,
+		"growthRate": "Medium Slow",
+		"catchRate": 120,
+		"baseFriendship": 70,
+		"baseExp": 128,
+		"stats": {
+			"speed": {
+				"base": 45,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 60,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 80,
+				"effort": 2
+			},
+			"defense": {
+				"base": 55,
+				"effort": 0
+			},
+			"attack": {
+				"base": 55,
+				"effort": 0
+			},
+			"hp": {
+				"base": 70,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "pink",
+		"generation": 2
+	},
+	{
+		"id": 181,
+		"name": "Ampharos",
+		"species": "Light Pokémon",
+		"weight": {
+			"lbs": "135.6 lbs",
+			"kg": "61.5 kg"
+		},
+		"types": [
+			13
+		],
+		"abilities": {
+			"normal": [
+				9
+			],
+			"hidden": [
+				57
+			]
+		},
+		"eggGroups": [
+			"Ground",
+			"Monster"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 20,
+		"growthRate": "Medium Slow",
+		"catchRate": 45,
+		"baseFriendship": 70,
+		"baseExp": 230,
+		"stats": {
+			"speed": {
+				"base": 55,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 90,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 115,
+				"effort": 3
+			},
+			"defense": {
+				"base": 85,
+				"effort": 0
+			},
+			"attack": {
+				"base": 75,
+				"effort": 0
+			},
+			"hp": {
+				"base": 90,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "yellow",
+		"generation": 2
+	},
+	{
+		"id": 182,
+		"name": "Bellossom",
+		"species": "Flower Pokémon",
+		"weight": {
+			"lbs": "12.8 lbs",
+			"kg": "5.8 kg"
+		},
+		"types": [
+			12
+		],
+		"abilities": {
+			"normal": [
+				34
+			],
+			"hidden": [
+				131
+			]
+		},
+		"eggGroups": [
+			"Plant"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 20,
+		"growthRate": "Medium Slow",
+		"catchRate": 45,
+		"baseFriendship": 70,
+		"baseExp": 221,
+		"stats": {
+			"speed": {
+				"base": 50,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 100,
+				"effort": 3
+			},
+			"specialAttack": {
+				"base": 90,
+				"effort": 0
+			},
+			"defense": {
+				"base": 95,
+				"effort": 0
+			},
+			"attack": {
+				"base": 80,
+				"effort": 0
+			},
+			"hp": {
+				"base": 75,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "green",
+		"generation": 2
+	},
+	{
+		"id": 183,
+		"name": "Marill",
+		"species": "Aqua Mouse Pokémon",
+		"weight": {
+			"lbs": "18.7 lbs",
+			"kg": "8.5 kg"
+		},
+		"types": [
+			11,
+			18
+		],
+		"abilities": {
+			"normal": [
+				47,
+				37
+			],
+			"hidden": [
+				157
+			]
+		},
+		"eggGroups": [
+			"Fairy",
+			"Water1"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 10,
+		"growthRate": "Fast",
+		"catchRate": 190,
+		"baseFriendship": 70,
+		"baseExp": 88,
+		"stats": {
+			"speed": {
+				"base": 40,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 50,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 20,
+				"effort": 0
+			},
+			"defense": {
+				"base": 50,
+				"effort": 0
+			},
+			"attack": {
+				"base": 20,
+				"effort": 0
+			},
+			"hp": {
+				"base": 70,
+				"effort": 2
+			}
+		},
+		"pokedexColor": "blue",
+		"generation": 2
+	},
+	{
+		"id": 184,
+		"name": "Azumarill",
+		"species": "Aqua Rabbit Pokémon",
+		"weight": {
+			"lbs": "62.8 lbs",
+			"kg": "28.5 kg"
+		},
+		"types": [
+			11,
+			18
+		],
+		"abilities": {
+			"normal": [
+				47,
+				37
+			],
+			"hidden": [
+				157
+			]
+		},
+		"eggGroups": [
+			"Fairy",
+			"Water1"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 10,
+		"growthRate": "Fast",
+		"catchRate": 75,
+		"baseFriendship": 70,
+		"baseExp": 189,
+		"stats": {
+			"speed": {
+				"base": 50,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 80,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 60,
+				"effort": 0
+			},
+			"defense": {
+				"base": 80,
+				"effort": 0
+			},
+			"attack": {
+				"base": 50,
+				"effort": 0
+			},
+			"hp": {
+				"base": 100,
+				"effort": 3
+			}
+		},
+		"pokedexColor": "blue",
+		"generation": 2
+	},
+	{
+		"id": 185,
+		"name": "Sudowoodo",
+		"species": "Imitation Pokémon",
+		"weight": {
+			"lbs": "83.8 lbs",
+			"kg": "38.0 kg"
+		},
+		"types": [
+			6
+		],
+		"abilities": {
+			"normal": [
+				5,
+				69
+			],
+			"hidden": [
+				155
+			]
+		},
+		"eggGroups": [
+			"Mineral"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 20,
+		"growthRate": "Medium",
+		"catchRate": 65,
+		"baseFriendship": 70,
+		"baseExp": 144,
+		"stats": {
+			"speed": {
+				"base": 30,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 65,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 30,
+				"effort": 0
+			},
+			"defense": {
+				"base": 115,
+				"effort": 2
+			},
+			"attack": {
+				"base": 100,
+				"effort": 0
+			},
+			"hp": {
+				"base": 70,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "brown",
+		"generation": 2
+	},
+	{
+		"id": 186,
+		"name": "Politoed",
+		"species": "Frog Pokémon",
+		"weight": {
+			"lbs": "74.7 lbs",
+			"kg": "33.9 kg"
+		},
+		"types": [
+			11
+		],
+		"abilities": {
+			"normal": [
+				11,
+				6
+			],
+			"hidden": [
+				2
+			]
+		},
+		"eggGroups": [
+			"Water1"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 20,
+		"growthRate": "Medium Slow",
+		"catchRate": 45,
+		"baseFriendship": 70,
+		"baseExp": 225,
+		"stats": {
+			"speed": {
+				"base": 70,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 100,
+				"effort": 3
+			},
+			"specialAttack": {
+				"base": 90,
+				"effort": 0
+			},
+			"defense": {
+				"base": 75,
+				"effort": 0
+			},
+			"attack": {
+				"base": 75,
+				"effort": 0
+			},
+			"hp": {
+				"base": 90,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "green",
+		"generation": 2
+	},
+	{
+		"id": 187,
+		"name": "Hoppip",
+		"species": "Cottonweed Pokémon",
+		"weight": {
+			"lbs": "1.1 lbs",
+			"kg": "0.5 kg"
+		},
+		"types": [
+			12,
+			3
+		],
+		"abilities": {
+			"normal": [
+				34,
+				102
+			],
+			"hidden": [
+				151
+			]
+		},
+		"eggGroups": [
+			"Plant",
+			"Fairy"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 20,
+		"growthRate": "Medium Slow",
+		"catchRate": 255,
+		"baseFriendship": 70,
+		"baseExp": 50,
+		"stats": {
+			"speed": {
+				"base": 50,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 55,
+				"effort": 1
+			},
+			"specialAttack": {
+				"base": 35,
+				"effort": 0
+			},
+			"defense": {
+				"base": 40,
+				"effort": 0
+			},
+			"attack": {
+				"base": 35,
+				"effort": 0
+			},
+			"hp": {
+				"base": 35,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "pink",
+		"generation": 2
+	},
+	{
+		"id": 188,
+		"name": "Skiploom",
+		"species": "Cottonweed Pokémon",
+		"weight": {
+			"lbs": "2.2 lbs",
+			"kg": "1.0 kg"
+		},
+		"types": [
+			12,
+			3
+		],
+		"abilities": {
+			"normal": [
+				34,
+				102
+			],
+			"hidden": [
+				151
+			]
+		},
+		"eggGroups": [
+			"Plant",
+			"Fairy"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 20,
+		"growthRate": "Medium Slow",
+		"catchRate": 120,
+		"baseFriendship": 70,
+		"baseExp": 119,
+		"stats": {
+			"speed": {
+				"base": 80,
+				"effort": 2
+			},
+			"specialDefense": {
+				"base": 65,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 45,
+				"effort": 0
+			},
+			"defense": {
+				"base": 50,
+				"effort": 0
+			},
+			"attack": {
+				"base": 45,
+				"effort": 0
+			},
+			"hp": {
+				"base": 55,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "green",
+		"generation": 2
+	},
+	{
+		"id": 189,
+		"name": "Jumpluff",
+		"species": "Cottonweed Pokémon",
+		"weight": {
+			"lbs": "6.6 lbs",
+			"kg": "3.0 kg"
+		},
+		"types": [
+			12,
+			3
+		],
+		"abilities": {
+			"normal": [
+				34,
+				102
+			],
+			"hidden": [
+				151
+			]
+		},
+		"eggGroups": [
+			"Plant",
+			"Fairy"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 20,
+		"growthRate": "Medium Slow",
+		"catchRate": 45,
+		"baseFriendship": 70,
+		"baseExp": 207,
+		"stats": {
+			"speed": {
+				"base": 110,
+				"effort": 3
+			},
+			"specialDefense": {
+				"base": 95,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 55,
+				"effort": 0
+			},
+			"defense": {
+				"base": 70,
+				"effort": 0
+			},
+			"attack": {
+				"base": 55,
+				"effort": 0
+			},
+			"hp": {
+				"base": 75,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "blue",
+		"generation": 2
+	},
+	{
+		"id": 190,
+		"name": "Aipom",
+		"species": "Long Tail Pokémon",
+		"weight": {
+			"lbs": "25.4 lbs",
+			"kg": "11.5 kg"
+		},
+		"types": [
+			1
+		],
+		"abilities": {
+			"normal": [
+				50,
+				53
+			],
+			"hidden": [
+				92
+			]
+		},
+		"eggGroups": [
+			"Ground"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 20,
+		"growthRate": "Fast",
+		"catchRate": 45,
+		"baseFriendship": 70,
+		"baseExp": 72,
+		"stats": {
+			"speed": {
+				"base": 85,
+				"effort": 1
+			},
+			"specialDefense": {
+				"base": 55,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 40,
+				"effort": 0
+			},
+			"defense": {
+				"base": 55,
+				"effort": 0
+			},
+			"attack": {
+				"base": 70,
+				"effort": 0
+			},
+			"hp": {
+				"base": 55,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "purple",
+		"generation": 2
+	},
+	{
+		"id": 191,
+		"name": "Sunkern",
+		"species": "Seed Pokémon",
+		"weight": {
+			"lbs": "4 lbs",
+			"kg": "1.8 kg"
+		},
+		"types": [
+			12
+		],
+		"abilities": {
+			"normal": [
+				34,
+				94
+			],
+			"hidden": [
+				48
+			]
+		},
+		"eggGroups": [
+			"Plant"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 20,
+		"growthRate": "Medium Slow",
+		"catchRate": 235,
+		"baseFriendship": 70,
+		"baseExp": 36,
+		"stats": {
+			"speed": {
+				"base": 30,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 30,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 30,
+				"effort": 1
+			},
+			"defense": {
+				"base": 30,
+				"effort": 0
+			},
+			"attack": {
+				"base": 30,
+				"effort": 0
+			},
+			"hp": {
+				"base": 30,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "yellow",
+		"generation": 2
+	},
+	{
+		"id": 192,
+		"name": "Sunflora",
+		"species": "Sun Pokémon",
+		"weight": {
+			"lbs": "18.7 lbs",
+			"kg": "8.5 kg"
+		},
+		"types": [
+			12
+		],
+		"abilities": {
+			"normal": [
+				34,
+				94
+			],
+			"hidden": [
+				48
+			]
+		},
+		"eggGroups": [
+			"Plant"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 20,
+		"growthRate": "Medium Slow",
+		"catchRate": 120,
+		"baseFriendship": 70,
+		"baseExp": 149,
+		"stats": {
+			"speed": {
+				"base": 30,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 85,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 105,
+				"effort": 2
+			},
+			"defense": {
+				"base": 55,
+				"effort": 0
+			},
+			"attack": {
+				"base": 75,
+				"effort": 0
+			},
+			"hp": {
+				"base": 75,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "yellow",
+		"generation": 2
+	},
+	{
+		"id": 193,
+		"name": "Yanma",
+		"species": "Clear Wing Pokémon",
+		"weight": {
+			"lbs": "83.8 lbs",
+			"kg": "38.0 kg"
+		},
+		"types": [
+			7,
+			3
+		],
+		"abilities": {
+			"normal": [
+				3,
+				14
+			],
+			"hidden": [
+				119
+			]
+		},
+		"eggGroups": [
+			"Bug"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 20,
+		"growthRate": "Medium",
+		"catchRate": 75,
+		"baseFriendship": 70,
+		"baseExp": 78,
+		"stats": {
+			"speed": {
+				"base": 95,
+				"effort": 1
+			},
+			"specialDefense": {
+				"base": 45,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 75,
+				"effort": 0
+			},
+			"defense": {
+				"base": 45,
+				"effort": 0
+			},
+			"attack": {
+				"base": 65,
+				"effort": 0
+			},
+			"hp": {
+				"base": 65,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "red",
+		"generation": 2
+	},
+	{
+		"id": 194,
+		"name": "Wooper",
+		"species": "Water Fish Pokémon",
+		"weight": {
+			"lbs": "18.7 lbs",
+			"kg": "8.5 kg"
+		},
+		"types": [
+			11,
+			5
+		],
+		"abilities": {
+			"normal": [
+				6,
+				11
+			],
+			"hidden": [
+				109
+			]
+		},
+		"eggGroups": [
+			"Ground",
+			"Water1"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 20,
+		"growthRate": "Medium",
+		"catchRate": 255,
+		"baseFriendship": 70,
+		"baseExp": 42,
+		"stats": {
+			"speed": {
+				"base": 15,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 25,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 25,
+				"effort": 0
+			},
+			"defense": {
+				"base": 45,
+				"effort": 0
+			},
+			"attack": {
+				"base": 45,
+				"effort": 0
+			},
+			"hp": {
+				"base": 55,
+				"effort": 1
+			}
+		},
+		"pokedexColor": "blue",
+		"generation": 2
+	},
+	{
+		"id": 195,
+		"name": "Quagsire",
+		"species": "Water Fish Pokémon",
+		"weight": {
+			"lbs": "165.3 lbs",
+			"kg": "75.0 kg"
+		},
+		"types": [
+			11,
+			5
+		],
+		"abilities": {
+			"normal": [
+				6,
+				11
+			],
+			"hidden": [
+				109
+			]
+		},
+		"eggGroups": [
+			"Ground",
+			"Water1"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 20,
+		"growthRate": "Medium",
+		"catchRate": 90,
+		"baseFriendship": 70,
+		"baseExp": 151,
+		"stats": {
+			"speed": {
+				"base": 35,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 65,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 65,
+				"effort": 0
+			},
+			"defense": {
+				"base": 85,
+				"effort": 0
+			},
+			"attack": {
+				"base": 85,
+				"effort": 0
+			},
+			"hp": {
+				"base": 95,
+				"effort": 2
+			}
+		},
+		"pokedexColor": "blue",
+		"generation": 2
+	},
+	{
+		"id": 196,
+		"name": "Espeon",
+		"species": "Sun Pokémon",
+		"weight": {
+			"lbs": "58.4 lbs",
+			"kg": "26.5 kg"
+		},
+		"types": [
+			14
+		],
+		"abilities": {
+			"normal": [
+				28
+			],
+			"hidden": [
+				156
+			]
+		},
+		"eggGroups": [
+			"Ground"
+		],
+		"genderRatio": "87.5% male 12.5% female",
+		"eggCycle": 35,
+		"growthRate": "Medium",
+		"catchRate": 45,
+		"baseFriendship": 70,
+		"baseExp": 184,
+		"stats": {
+			"speed": {
+				"base": 110,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 95,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 130,
+				"effort": 2
+			},
+			"defense": {
+				"base": 60,
+				"effort": 0
+			},
+			"attack": {
+				"base": 65,
+				"effort": 0
+			},
+			"hp": {
+				"base": 65,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "purple",
+		"generation": 2
+	},
+	{
+		"id": 197,
+		"name": "Umbreon",
+		"species": "Moonlight Pokémon",
+		"weight": {
+			"lbs": "59.5 lbs",
+			"kg": "27.0 kg"
+		},
+		"types": [
+			17
+		],
+		"abilities": {
+			"normal": [
+				28
+			],
+			"hidden": [
+				39
+			]
+		},
+		"eggGroups": [
+			"Ground"
+		],
+		"genderRatio": "87.5% male 12.5% female",
+		"eggCycle": 35,
+		"growthRate": "Medium",
+		"catchRate": 45,
+		"baseFriendship": 35,
+		"baseExp": 184,
+		"stats": {
+			"speed": {
+				"base": 65,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 130,
+				"effort": 2
+			},
+			"specialAttack": {
+				"base": 60,
+				"effort": 0
+			},
+			"defense": {
+				"base": 110,
+				"effort": 0
+			},
+			"attack": {
+				"base": 65,
+				"effort": 0
+			},
+			"hp": {
+				"base": 95,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "black",
+		"generation": 2
+	},
+	{
+		"id": 198,
+		"name": "Murkrow",
+		"species": "Darkness Pokémon",
+		"weight": {
+			"lbs": "4.6 lbs",
+			"kg": "2.1 kg"
+		},
+		"types": [
+			17,
+			3
+		],
+		"abilities": {
+			"normal": [
+				15,
+				105
+			],
+			"hidden": [
+				158
+			]
+		},
+		"eggGroups": [
+			"Flying"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 20,
+		"growthRate": "Medium Slow",
+		"catchRate": 30,
+		"baseFriendship": 35,
+		"baseExp": 81,
+		"stats": {
+			"speed": {
+				"base": 91,
+				"effort": 1
+			},
+			"specialDefense": {
+				"base": 42,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 85,
+				"effort": 0
+			},
+			"defense": {
+				"base": 42,
+				"effort": 0
+			},
+			"attack": {
+				"base": 85,
+				"effort": 0
+			},
+			"hp": {
+				"base": 60,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "black",
+		"generation": 2
+	},
+	{
+		"id": 199,
+		"name": "Slowking",
+		"species": "Royal Pokémon",
+		"weight": {
+			"lbs": "175.3 lbs",
+			"kg": "79.5 kg"
+		},
+		"types": [
+			11,
+			14
+		],
+		"abilities": {
+			"normal": [
+				12,
+				20
+			],
+			"hidden": [
+				144
+			]
+		},
+		"eggGroups": [
+			"Water1",
+			"Monster"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 20,
+		"growthRate": "Medium",
+		"catchRate": 70,
+		"baseFriendship": 70,
+		"baseExp": 172,
+		"stats": {
+			"speed": {
+				"base": 30,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 110,
+				"effort": 3
+			},
+			"specialAttack": {
+				"base": 100,
+				"effort": 0
+			},
+			"defense": {
+				"base": 80,
+				"effort": 0
+			},
+			"attack": {
+				"base": 75,
+				"effort": 0
+			},
+			"hp": {
+				"base": 95,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "pink",
+		"generation": 2
+	},
+	{
+		"id": 200,
+		"name": "Misdreavus",
+		"species": "Screech Pokémon",
+		"weight": {
+			"lbs": "2.2 lbs",
+			"kg": "1.0 kg"
+		},
+		"types": [
+			8
+		],
+		"abilities": {
+			"normal": [
+				26
+			],
+			"hidden": []
+		},
+		"eggGroups": [
+			"Indeterminate"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 25,
+		"growthRate": "Fast",
+		"catchRate": 45,
+		"baseFriendship": 35,
+		"baseExp": 87,
+		"stats": {
+			"speed": {
+				"base": 85,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 85,
+				"effort": 1
+			},
+			"specialAttack": {
+				"base": 85,
+				"effort": 0
+			},
+			"defense": {
+				"base": 60,
+				"effort": 0
+			},
+			"attack": {
+				"base": 60,
+				"effort": 0
+			},
+			"hp": {
+				"base": 60,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "gray",
+		"generation": 2
+	},
+	{
+		"id": 201,
+		"name": "Unown",
+		"species": "Symbol Pokémon",
+		"weight": {
+			"lbs": "11 lbs",
+			"kg": "5.0 kg"
+		},
+		"types": [
+			14
+		],
+		"abilities": {
+			"normal": [
+				26
+			],
+			"hidden": []
+		},
+		"eggGroups": [
+			"No Eggs"
+		],
+		"genderRatio": "Genderless",
+		"eggCycle": 40,
+		"growthRate": "Medium",
+		"catchRate": 225,
+		"baseFriendship": 70,
+		"baseExp": 118,
+		"stats": {
+			"speed": {
+				"base": 48,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 48,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 72,
+				"effort": 1
+			},
+			"defense": {
+				"base": 48,
+				"effort": 0
+			},
+			"attack": {
+				"base": 72,
+				"effort": 1
+			},
+			"hp": {
+				"base": 48,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "black",
+		"generation": 2
+	},
+	{
+		"id": 202,
+		"name": "Wobbuffet",
+		"species": "Patient Pokémon",
+		"weight": {
+			"lbs": "62.8 lbs",
+			"kg": "28.5 kg"
+		},
+		"types": [
+			14
+		],
+		"abilities": {
+			"normal": [
+				23
+			],
+			"hidden": [
+				140
+			]
+		},
+		"eggGroups": [
+			"Indeterminate"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 20,
+		"growthRate": "Medium",
+		"catchRate": 45,
+		"baseFriendship": 70,
+		"baseExp": 142,
+		"stats": {
+			"speed": {
+				"base": 33,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 58,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 33,
+				"effort": 0
+			},
+			"defense": {
+				"base": 58,
+				"effort": 0
+			},
+			"attack": {
+				"base": 33,
+				"effort": 0
+			},
+			"hp": {
+				"base": 190,
+				"effort": 2
+			}
+		},
+		"pokedexColor": "blue",
+		"generation": 2
+	},
+	{
+		"id": 203,
+		"name": "Girafarig",
+		"species": "Long Neck Pokémon",
+		"weight": {
+			"lbs": "91.5 lbs",
+			"kg": "41.5 kg"
+		},
+		"types": [
+			1,
+			14
+		],
+		"abilities": {
+			"normal": [
+				39,
+				48
+			],
+			"hidden": [
+				157
+			]
+		},
+		"eggGroups": [
+			"Ground"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 20,
+		"growthRate": "Medium",
+		"catchRate": 60,
+		"baseFriendship": 70,
+		"baseExp": 159,
+		"stats": {
+			"speed": {
+				"base": 85,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 65,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 90,
+				"effort": 2
+			},
+			"defense": {
+				"base": 65,
+				"effort": 0
+			},
+			"attack": {
+				"base": 80,
+				"effort": 0
+			},
+			"hp": {
+				"base": 70,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "yellow",
+		"generation": 2
+	},
+	{
+		"id": 204,
+		"name": "Pineco",
+		"species": "Bagworm Pokémon",
+		"weight": {
+			"lbs": "15.9 lbs",
+			"kg": "7.2 kg"
+		},
+		"types": [
+			7
+		],
+		"abilities": {
+			"normal": [
+				5
+			],
+			"hidden": [
+				142
+			]
+		},
+		"eggGroups": [
+			"Bug"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 20,
+		"growthRate": "Medium",
+		"catchRate": 190,
+		"baseFriendship": 70,
+		"baseExp": 58,
+		"stats": {
+			"speed": {
+				"base": 15,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 35,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 35,
+				"effort": 0
+			},
+			"defense": {
+				"base": 90,
+				"effort": 1
+			},
+			"attack": {
+				"base": 65,
+				"effort": 0
+			},
+			"hp": {
+				"base": 50,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "gray",
+		"generation": 2
+	},
+	{
+		"id": 205,
+		"name": "Forretress",
+		"species": "Bagworm Pokémon",
+		"weight": {
+			"lbs": "277.3 lbs",
+			"kg": "125.8 kg"
+		},
+		"types": [
+			7,
+			9
+		],
+		"abilities": {
+			"normal": [
+				5
+			],
+			"hidden": [
+				142
+			]
+		},
+		"eggGroups": [
+			"Bug"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 20,
+		"growthRate": "Medium",
+		"catchRate": 75,
+		"baseFriendship": 70,
+		"baseExp": 163,
+		"stats": {
+			"speed": {
+				"base": 40,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 60,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 60,
+				"effort": 0
+			},
+			"defense": {
+				"base": 140,
+				"effort": 2
+			},
+			"attack": {
+				"base": 90,
+				"effort": 0
+			},
+			"hp": {
+				"base": 75,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "purple",
+		"generation": 2
+	},
+	{
+		"id": 206,
+		"name": "Dunsparce",
+		"species": "Land Snake Pokémon",
+		"weight": {
+			"lbs": "30.9 lbs",
+			"kg": "14.0 kg"
+		},
+		"types": [
+			1
+		],
+		"abilities": {
+			"normal": [
+				32,
+				50
+			],
+			"hidden": [
+				155
+			]
+		},
+		"eggGroups": [
+			"Ground"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 20,
+		"growthRate": "Medium",
+		"catchRate": 190,
+		"baseFriendship": 70,
+		"baseExp": 145,
+		"stats": {
+			"speed": {
+				"base": 45,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 65,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 65,
+				"effort": 0
+			},
+			"defense": {
+				"base": 70,
+				"effort": 0
+			},
+			"attack": {
+				"base": 70,
+				"effort": 0
+			},
+			"hp": {
+				"base": 100,
+				"effort": 1
+			}
+		},
+		"pokedexColor": "yellow",
+		"generation": 2
+	},
+	{
+		"id": 207,
+		"name": "Gligar",
+		"species": "Fly Scorpion Pokémon",
+		"weight": {
+			"lbs": "142.9 lbs",
+			"kg": "64.8 kg"
+		},
+		"types": [
+			5,
+			3
+		],
+		"abilities": {
+			"normal": [
+				52,
+				8
+			],
+			"hidden": [
+				17
+			]
+		},
+		"eggGroups": [
+			"Bug"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 20,
+		"growthRate": "Medium Slow",
+		"catchRate": 60,
+		"baseFriendship": 70,
+		"baseExp": 86,
+		"stats": {
+			"speed": {
+				"base": 85,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 65,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 35,
+				"effort": 0
+			},
+			"defense": {
+				"base": 105,
+				"effort": 1
+			},
+			"attack": {
+				"base": 75,
+				"effort": 0
+			},
+			"hp": {
+				"base": 65,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "purple",
+		"generation": 2
+	},
+	{
+		"id": 208,
+		"name": "Steelix",
+		"species": "Iron Snake Pokémon",
+		"weight": {
+			"lbs": "881.8 lbs",
+			"kg": "400.0 kg"
+		},
+		"types": [
+			9,
+			5
+		],
+		"abilities": {
+			"normal": [
+				69,
+				5
+			],
+			"hidden": [
+				125
+			]
+		},
+		"eggGroups": [
+			"Mineral"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 25,
+		"growthRate": "Medium",
+		"catchRate": 25,
+		"baseFriendship": 70,
+		"baseExp": 179,
+		"stats": {
+			"speed": {
+				"base": 30,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 65,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 55,
+				"effort": 0
+			},
+			"defense": {
+				"base": 200,
+				"effort": 2
+			},
+			"attack": {
+				"base": 85,
+				"effort": 0
+			},
+			"hp": {
+				"base": 75,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "gray",
+		"generation": 2
+	},
+	{
+		"id": 209,
+		"name": "Snubbull",
+		"species": "Fairy Pokémon",
+		"weight": {
+			"lbs": "17.2 lbs",
+			"kg": "7.8 kg"
+		},
+		"types": [
+			18
+		],
+		"abilities": {
+			"normal": [
+				22,
+				50
+			],
+			"hidden": [
+				155
+			]
+		},
+		"eggGroups": [
+			"Fairy",
+			"Ground"
+		],
+		"genderRatio": "25% male 75% female",
+		"eggCycle": 20,
+		"growthRate": "Fast",
+		"catchRate": 190,
+		"baseFriendship": 70,
+		"baseExp": 60,
+		"stats": {
+			"speed": {
+				"base": 30,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 40,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 40,
+				"effort": 0
+			},
+			"defense": {
+				"base": 50,
+				"effort": 0
+			},
+			"attack": {
+				"base": 80,
+				"effort": 1
+			},
+			"hp": {
+				"base": 60,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "pink",
+		"generation": 2
+	},
+	{
+		"id": 210,
+		"name": "Granbull",
+		"species": "Fairy Pokémon",
+		"weight": {
+			"lbs": "107.4 lbs",
+			"kg": "48.7 kg"
+		},
+		"types": [
+			18
+		],
+		"abilities": {
+			"normal": [
+				22,
+				95
+			],
+			"hidden": [
+				155
+			]
+		},
+		"eggGroups": [
+			"Fairy",
+			"Ground"
+		],
+		"genderRatio": "25% male 75% female",
+		"eggCycle": 20,
+		"growthRate": "Fast",
+		"catchRate": 75,
+		"baseFriendship": 70,
+		"baseExp": 158,
+		"stats": {
+			"speed": {
+				"base": 45,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 60,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 60,
+				"effort": 0
+			},
+			"defense": {
+				"base": 75,
+				"effort": 0
+			},
+			"attack": {
+				"base": 120,
+				"effort": 2
+			},
+			"hp": {
+				"base": 90,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "purple",
+		"generation": 2
+	},
+	{
+		"id": 211,
+		"name": "Qwilfish",
+		"species": "Balloon Pokémon",
+		"weight": {
+			"lbs": "8.6 lbs",
+			"kg": "3.9 kg"
+		},
+		"types": [
+			11,
+			4
+		],
+		"abilities": {
+			"normal": [
+				38,
+				33
+			],
+			"hidden": [
+				22
+			]
+		},
+		"eggGroups": [
+			"Water2"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 20,
+		"growthRate": "Medium",
+		"catchRate": 45,
+		"baseFriendship": 70,
+		"baseExp": 88,
+		"stats": {
+			"speed": {
+				"base": 85,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 55,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 55,
+				"effort": 0
+			},
+			"defense": {
+				"base": 85,
+				"effort": 0
+			},
+			"attack": {
+				"base": 95,
+				"effort": 1
+			},
+			"hp": {
+				"base": 65,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "gray",
+		"generation": 2
+	},
+	{
+		"id": 212,
+		"name": "Scizor",
+		"species": "Pincer Pokémon",
+		"weight": {
+			"lbs": "260.1 lbs",
+			"kg": "118.0 kg"
+		},
+		"types": [
+			7,
+			9
+		],
+		"abilities": {
+			"normal": [
+				68,
+				101
+			],
+			"hidden": [
+				135
+			]
+		},
+		"eggGroups": [
+			"Bug"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 25,
+		"growthRate": "Medium",
+		"catchRate": 25,
+		"baseFriendship": 70,
+		"baseExp": 175,
+		"stats": {
+			"speed": {
+				"base": 65,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 80,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 55,
+				"effort": 0
+			},
+			"defense": {
+				"base": 100,
+				"effort": 0
+			},
+			"attack": {
+				"base": 130,
+				"effort": 2
+			},
+			"hp": {
+				"base": 70,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "red",
+		"generation": 2
+	},
+	{
+		"id": 213,
+		"name": "Shuckle",
+		"species": "Mold Pokémon",
+		"weight": {
+			"lbs": "45.2 lbs",
+			"kg": "20.5 kg"
+		},
+		"types": [
+			7,
+			6
+		],
+		"abilities": {
+			"normal": [
+				5,
+				82
+			],
+			"hidden": [
+				126
+			]
+		},
+		"eggGroups": [
+			"Bug"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 20,
+		"growthRate": "Medium Slow",
+		"catchRate": 190,
+		"baseFriendship": 70,
+		"baseExp": 177,
+		"stats": {
+			"speed": {
+				"base": 5,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 230,
+				"effort": 1
+			},
+			"specialAttack": {
+				"base": 10,
+				"effort": 0
+			},
+			"defense": {
+				"base": 230,
+				"effort": 1
+			},
+			"attack": {
+				"base": 10,
+				"effort": 0
+			},
+			"hp": {
+				"base": 20,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "yellow",
+		"generation": 2
+	},
+	{
+		"id": 214,
+		"name": "Heracross",
+		"species": "Single Horn Pokémon",
+		"weight": {
+			"lbs": "119 lbs",
+			"kg": "54.0 kg"
+		},
+		"types": [
+			7,
+			2
+		],
+		"abilities": {
+			"normal": [
+				68,
+				62
+			],
+			"hidden": [
+				153
+			]
+		},
+		"eggGroups": [
+			"Bug"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 25,
+		"growthRate": "Slow",
+		"catchRate": 45,
+		"baseFriendship": 70,
+		"baseExp": 175,
+		"stats": {
+			"speed": {
+				"base": 85,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 95,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 40,
+				"effort": 0
+			},
+			"defense": {
+				"base": 75,
+				"effort": 0
+			},
+			"attack": {
+				"base": 125,
+				"effort": 2
+			},
+			"hp": {
+				"base": 80,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "blue",
+		"generation": 2
+	},
+	{
+		"id": 215,
+		"name": "Sneasel",
+		"species": "Sharp Claw Pokémon",
+		"weight": {
+			"lbs": "61.7 lbs",
+			"kg": "28.0 kg"
+		},
+		"types": [
+			17,
+			15
+		],
+		"abilities": {
+			"normal": [
+				39,
+				51
+			],
+			"hidden": [
+				124
+			]
+		},
+		"eggGroups": [
+			"Ground"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 20,
+		"growthRate": "Medium Slow",
+		"catchRate": 60,
+		"baseFriendship": 35,
+		"baseExp": 86,
+		"stats": {
+			"speed": {
+				"base": 115,
+				"effort": 1
+			},
+			"specialDefense": {
+				"base": 75,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 35,
+				"effort": 0
+			},
+			"defense": {
+				"base": 55,
+				"effort": 0
+			},
+			"attack": {
+				"base": 95,
+				"effort": 0
+			},
+			"hp": {
+				"base": 55,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "black",
+		"generation": 2
+	},
+	{
+		"id": 216,
+		"name": "Teddiursa",
+		"species": "Little Bear Pokémon",
+		"weight": {
+			"lbs": "19.4 lbs",
+			"kg": "8.8 kg"
+		},
+		"types": [
+			1
+		],
+		"abilities": {
+			"normal": [
+				53,
+				95
+			],
+			"hidden": [
+				118
+			]
+		},
+		"eggGroups": [
+			"Ground"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 20,
+		"growthRate": "Medium",
+		"catchRate": 120,
+		"baseFriendship": 70,
+		"baseExp": 66,
+		"stats": {
+			"speed": {
+				"base": 40,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 50,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 50,
+				"effort": 0
+			},
+			"defense": {
+				"base": 50,
+				"effort": 0
+			},
+			"attack": {
+				"base": 80,
+				"effort": 1
+			},
+			"hp": {
+				"base": 60,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "brown",
+		"generation": 2
+	},
+	{
+		"id": 217,
+		"name": "Ursaring",
+		"species": "Hibernator Pokémon",
+		"weight": {
+			"lbs": "277.3 lbs",
+			"kg": "125.8 kg"
+		},
+		"types": [
+			1
+		],
+		"abilities": {
+			"normal": [
+				62,
+				95
+			],
+			"hidden": [
+				127
+			]
+		},
+		"eggGroups": [
+			"Ground"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 20,
+		"growthRate": "Medium",
+		"catchRate": 60,
+		"baseFriendship": 70,
+		"baseExp": 175,
+		"stats": {
+			"speed": {
+				"base": 55,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 75,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 75,
+				"effort": 0
+			},
+			"defense": {
+				"base": 75,
+				"effort": 0
+			},
+			"attack": {
+				"base": 130,
+				"effort": 2
+			},
+			"hp": {
+				"base": 90,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "brown",
+		"generation": 2
+	},
+	{
+		"id": 218,
+		"name": "Slugma",
+		"species": "Lava Pokémon",
+		"weight": {
+			"lbs": "77.2 lbs",
+			"kg": "35.0 kg"
+		},
+		"types": [
+			10
+		],
+		"abilities": {
+			"normal": [
+				40,
+				49
+			],
+			"hidden": [
+				133
+			]
+		},
+		"eggGroups": [
+			"Indeterminate"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 20,
+		"growthRate": "Medium",
+		"catchRate": 190,
+		"baseFriendship": 70,
+		"baseExp": 50,
+		"stats": {
+			"speed": {
+				"base": 20,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 40,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 70,
+				"effort": 1
+			},
+			"defense": {
+				"base": 40,
+				"effort": 0
+			},
+			"attack": {
+				"base": 40,
+				"effort": 0
+			},
+			"hp": {
+				"base": 40,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "red",
+		"generation": 2
+	},
+	{
+		"id": 219,
+		"name": "Magcargo",
+		"species": "Lava Pokémon",
+		"weight": {
+			"lbs": "121.3 lbs",
+			"kg": "55.0 kg"
+		},
+		"types": [
+			10,
+			6
+		],
+		"abilities": {
+			"normal": [
+				40,
+				49
+			],
+			"hidden": [
+				133
+			]
+		},
+		"eggGroups": [
+			"Indeterminate"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 20,
+		"growthRate": "Medium",
+		"catchRate": 75,
+		"baseFriendship": 70,
+		"baseExp": 151,
+		"stats": {
+			"speed": {
+				"base": 30,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 80,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 90,
+				"effort": 0
+			},
+			"defense": {
+				"base": 120,
+				"effort": 2
+			},
+			"attack": {
+				"base": 50,
+				"effort": 0
+			},
+			"hp": {
+				"base": 60,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "red",
+		"generation": 2
+	},
+	{
+		"id": 220,
+		"name": "Swinub",
+		"species": "Pig Pokémon",
+		"weight": {
+			"lbs": "14.3 lbs",
+			"kg": "6.5 kg"
+		},
+		"types": [
+			15,
+			5
+		],
+		"abilities": {
+			"normal": [
+				12,
+				81
+			],
+			"hidden": [
+				47
+			]
+		},
+		"eggGroups": [
+			"Ground"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 20,
+		"growthRate": "Slow",
+		"catchRate": 225,
+		"baseFriendship": 70,
+		"baseExp": 50,
+		"stats": {
+			"speed": {
+				"base": 50,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 30,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 30,
+				"effort": 0
+			},
+			"defense": {
+				"base": 40,
+				"effort": 0
+			},
+			"attack": {
+				"base": 50,
+				"effort": 1
+			},
+			"hp": {
+				"base": 50,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "brown",
+		"generation": 2
+	},
+	{
+		"id": 221,
+		"name": "Piloswine",
+		"species": "Swine Pokémon",
+		"weight": {
+			"lbs": "123 lbs",
+			"kg": "55.8 kg"
+		},
+		"types": [
+			15,
+			5
+		],
+		"abilities": {
+			"normal": [
+				12,
+				81
+			],
+			"hidden": [
+				47
+			]
+		},
+		"eggGroups": [
+			"Ground"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 20,
+		"growthRate": "Slow",
+		"catchRate": 75,
+		"baseFriendship": 70,
+		"baseExp": 158,
+		"stats": {
+			"speed": {
+				"base": 50,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 60,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 60,
+				"effort": 0
+			},
+			"defense": {
+				"base": 80,
+				"effort": 0
+			},
+			"attack": {
+				"base": 100,
+				"effort": 1
+			},
+			"hp": {
+				"base": 100,
+				"effort": 1
+			}
+		},
+		"pokedexColor": "brown",
+		"generation": 2
+	},
+	{
+		"id": 222,
+		"name": "Corsola",
+		"species": "Coral Pokémon",
+		"weight": {
+			"lbs": "11 lbs",
+			"kg": "5.0 kg"
+		},
+		"types": [
+			11,
+			6
+		],
+		"abilities": {
+			"normal": [
+				55,
+				30
+			],
+			"hidden": [
+				144
+			]
+		},
+		"eggGroups": [
+			"Water3",
+			"Water1"
+		],
+		"genderRatio": "25% male 75% female",
+		"eggCycle": 20,
+		"growthRate": "Fast",
+		"catchRate": 60,
+		"baseFriendship": 70,
+		"baseExp": 144,
+		"stats": {
+			"speed": {
+				"base": 35,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 95,
+				"effort": 1
+			},
+			"specialAttack": {
+				"base": 65,
+				"effort": 0
+			},
+			"defense": {
+				"base": 95,
+				"effort": 1
+			},
+			"attack": {
+				"base": 55,
+				"effort": 0
+			},
+			"hp": {
+				"base": 65,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "pink",
+		"generation": 2
+	},
+	{
+		"id": 223,
+		"name": "Remoraid",
+		"species": "Jet Pokémon",
+		"weight": {
+			"lbs": "26.5 lbs",
+			"kg": "12.0 kg"
+		},
+		"types": [
+			11
+		],
+		"abilities": {
+			"normal": [
+				55,
+				97
+			],
+			"hidden": [
+				141
+			]
+		},
+		"eggGroups": [
+			"Water2",
+			"Water1"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 20,
+		"growthRate": "Medium",
+		"catchRate": 190,
+		"baseFriendship": 70,
+		"baseExp": 60,
+		"stats": {
+			"speed": {
+				"base": 65,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 35,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 65,
+				"effort": 1
+			},
+			"defense": {
+				"base": 35,
+				"effort": 0
+			},
+			"attack": {
+				"base": 65,
+				"effort": 0
+			},
+			"hp": {
+				"base": 35,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "gray",
+		"generation": 2
+	},
+	{
+		"id": 224,
+		"name": "Octillery",
+		"species": "Jet Pokémon",
+		"weight": {
+			"lbs": "62.8 lbs",
+			"kg": "28.5 kg"
+		},
+		"types": [
+			11
+		],
+		"abilities": {
+			"normal": [
+				21,
+				97
+			],
+			"hidden": [
+				141
+			]
+		},
+		"eggGroups": [
+			"Water2",
+			"Water1"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 20,
+		"growthRate": "Medium",
+		"catchRate": 75,
+		"baseFriendship": 70,
+		"baseExp": 168,
+		"stats": {
+			"speed": {
+				"base": 45,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 75,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 105,
+				"effort": 1
+			},
+			"defense": {
+				"base": 75,
+				"effort": 0
+			},
+			"attack": {
+				"base": 105,
+				"effort": 1
+			},
+			"hp": {
+				"base": 75,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "red",
+		"generation": 2
+	},
+	{
+		"id": 225,
+		"name": "Delibird",
+		"species": "Delivery Pokémon",
+		"weight": {
+			"lbs": "35.3 lbs",
+			"kg": "16.0 kg"
+		},
+		"types": [
+			15,
+			3
+		],
+		"abilities": {
+			"normal": [
+				72,
+				55
+			],
+			"hidden": [
+				15
+			]
+		},
+		"eggGroups": [
+			"Ground",
+			"Water1"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 20,
+		"growthRate": "Fast",
+		"catchRate": 45,
+		"baseFriendship": 70,
+		"baseExp": 116,
+		"stats": {
+			"speed": {
+				"base": 75,
+				"effort": 1
+			},
+			"specialDefense": {
+				"base": 45,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 65,
+				"effort": 0
+			},
+			"defense": {
+				"base": 45,
+				"effort": 0
+			},
+			"attack": {
+				"base": 55,
+				"effort": 0
+			},
+			"hp": {
+				"base": 45,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "red",
+		"generation": 2
+	},
+	{
+		"id": 226,
+		"name": "Mantine",
+		"species": "Kite Pokémon",
+		"weight": {
+			"lbs": "485 lbs",
+			"kg": "220.0 kg"
+		},
+		"types": [
+			11,
+			3
+		],
+		"abilities": {
+			"normal": [
+				33,
+				11
+			],
+			"hidden": [
+				41
+			]
+		},
+		"eggGroups": [
+			"Water1"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 25,
+		"growthRate": "Slow",
+		"catchRate": 25,
+		"baseFriendship": 70,
+		"baseExp": 170,
+		"stats": {
+			"speed": {
+				"base": 70,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 140,
+				"effort": 2
+			},
+			"specialAttack": {
+				"base": 80,
+				"effort": 0
+			},
+			"defense": {
+				"base": 70,
+				"effort": 0
+			},
+			"attack": {
+				"base": 40,
+				"effort": 0
+			},
+			"hp": {
+				"base": 85,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "purple",
+		"generation": 2
+	},
+	{
+		"id": 227,
+		"name": "Skarmory",
+		"species": "Armor Bird Pokémon",
+		"weight": {
+			"lbs": "111.3 lbs",
+			"kg": "50.5 kg"
+		},
+		"types": [
+			9,
+			3
+		],
+		"abilities": {
+			"normal": [
+				51,
+				5
+			],
+			"hidden": [
+				133
+			]
+		},
+		"eggGroups": [
+			"Flying"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 25,
+		"growthRate": "Slow",
+		"catchRate": 25,
+		"baseFriendship": 70,
+		"baseExp": 163,
+		"stats": {
+			"speed": {
+				"base": 70,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 70,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 40,
+				"effort": 0
+			},
+			"defense": {
+				"base": 140,
+				"effort": 2
+			},
+			"attack": {
+				"base": 80,
+				"effort": 0
+			},
+			"hp": {
+				"base": 65,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "gray",
+		"generation": 2
+	},
+	{
+		"id": 228,
+		"name": "Houndour",
+		"species": "Dark Pokémon",
+		"weight": {
+			"lbs": "23.8 lbs",
+			"kg": "10.8 kg"
+		},
+		"types": [
+			17,
+			10
+		],
+		"abilities": {
+			"normal": [
+				48,
+				18
+			],
+			"hidden": [
+				127
+			]
+		},
+		"eggGroups": [
+			"Ground"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 20,
+		"growthRate": "Slow",
+		"catchRate": 120,
+		"baseFriendship": 35,
+		"baseExp": 66,
+		"stats": {
+			"speed": {
+				"base": 65,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 50,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 80,
+				"effort": 1
+			},
+			"defense": {
+				"base": 30,
+				"effort": 0
+			},
+			"attack": {
+				"base": 60,
+				"effort": 0
+			},
+			"hp": {
+				"base": 45,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "black",
+		"generation": 2
+	},
+	{
+		"id": 229,
+		"name": "Houndoom",
+		"species": "Dark Pokémon",
+		"weight": {
+			"lbs": "77.2 lbs",
+			"kg": "35.0 kg"
+		},
+		"types": [
+			17,
+			10
+		],
+		"abilities": {
+			"normal": [
+				48,
+				18
+			],
+			"hidden": [
+				127
+			]
+		},
+		"eggGroups": [
+			"Ground"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 20,
+		"growthRate": "Slow",
+		"catchRate": 45,
+		"baseFriendship": 35,
+		"baseExp": 175,
+		"stats": {
+			"speed": {
+				"base": 95,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 80,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 110,
+				"effort": 2
+			},
+			"defense": {
+				"base": 50,
+				"effort": 0
+			},
+			"attack": {
+				"base": 90,
+				"effort": 0
+			},
+			"hp": {
+				"base": 75,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "black",
+		"generation": 2
+	},
+	{
+		"id": 230,
+		"name": "Kingdra",
+		"species": "Dragon Pokémon",
+		"weight": {
+			"lbs": "335.1 lbs",
+			"kg": "152.0 kg"
+		},
+		"types": [
+			11,
+			16
+		],
+		"abilities": {
+			"normal": [
+				33,
+				97
+			],
+			"hidden": [
+				6
+			]
+		},
+		"eggGroups": [
+			"Dragon",
+			"Water1"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 20,
+		"growthRate": "Medium",
+		"catchRate": 45,
+		"baseFriendship": 70,
+		"baseExp": 243,
+		"stats": {
+			"speed": {
+				"base": 85,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 95,
+				"effort": 1
+			},
+			"specialAttack": {
+				"base": 95,
+				"effort": 1
+			},
+			"defense": {
+				"base": 95,
+				"effort": 0
+			},
+			"attack": {
+				"base": 95,
+				"effort": 1
+			},
+			"hp": {
+				"base": 75,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "blue",
+		"generation": 2
+	},
+	{
+		"id": 231,
+		"name": "Phanpy",
+		"species": "Long Nose Pokémon",
+		"weight": {
+			"lbs": "73.9 lbs",
+			"kg": "33.5 kg"
+		},
+		"types": [
+			5
+		],
+		"abilities": {
+			"normal": [
+				53
+			],
+			"hidden": [
+				8
+			]
+		},
+		"eggGroups": [
+			"Ground"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 20,
+		"growthRate": "Medium",
+		"catchRate": 120,
+		"baseFriendship": 70,
+		"baseExp": 66,
+		"stats": {
+			"speed": {
+				"base": 40,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 40,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 40,
+				"effort": 0
+			},
+			"defense": {
+				"base": 60,
+				"effort": 0
+			},
+			"attack": {
+				"base": 60,
+				"effort": 0
+			},
+			"hp": {
+				"base": 90,
+				"effort": 1
+			}
+		},
+		"pokedexColor": "blue",
+		"generation": 2
+	},
+	{
+		"id": 232,
+		"name": "Donphan",
+		"species": "Armor Pokémon",
+		"weight": {
+			"lbs": "264.6 lbs",
+			"kg": "120.0 kg"
+		},
+		"types": [
+			5
+		],
+		"abilities": {
+			"normal": [
+				5
+			],
+			"hidden": [
+				8
+			]
+		},
+		"eggGroups": [
+			"Ground"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 20,
+		"growthRate": "Medium",
+		"catchRate": 60,
+		"baseFriendship": 70,
+		"baseExp": 175,
+		"stats": {
+			"speed": {
+				"base": 50,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 60,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 60,
+				"effort": 0
+			},
+			"defense": {
+				"base": 120,
+				"effort": 1
+			},
+			"attack": {
+				"base": 120,
+				"effort": 1
+			},
+			"hp": {
+				"base": 90,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "gray",
+		"generation": 2
+	},
+	{
+		"id": 233,
+		"name": "Porygon2",
+		"species": "Virtual Pokémon",
+		"weight": {
+			"lbs": "71.6 lbs",
+			"kg": "32.5 kg"
+		},
+		"types": [
+			1
+		],
+		"abilities": {
+			"normal": [
+				36,
+				88
+			],
+			"hidden": [
+				148
+			]
+		},
+		"eggGroups": [
+			"Mineral"
+		],
+		"genderRatio": "Genderless",
+		"eggCycle": 20,
+		"growthRate": "Medium",
+		"catchRate": 45,
+		"baseFriendship": 70,
+		"baseExp": 180,
+		"stats": {
+			"speed": {
+				"base": 60,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 95,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 105,
+				"effort": 2
+			},
+			"defense": {
+				"base": 90,
+				"effort": 0
+			},
+			"attack": {
+				"base": 80,
+				"effort": 0
+			},
+			"hp": {
+				"base": 85,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "red",
+		"generation": 2
+	},
+	{
+		"id": 234,
+		"name": "Stantler",
+		"species": "Big Horn Pokémon",
+		"weight": {
+			"lbs": "157 lbs",
+			"kg": "71.2 kg"
+		},
+		"types": [
+			1
+		],
+		"abilities": {
+			"normal": [
+				22,
+				119
+			],
+			"hidden": [
+				157
+			]
+		},
+		"eggGroups": [
+			"Ground"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 20,
+		"growthRate": "Slow",
+		"catchRate": 45,
+		"baseFriendship": 70,
+		"baseExp": 163,
+		"stats": {
+			"speed": {
+				"base": 85,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 65,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 85,
+				"effort": 0
+			},
+			"defense": {
+				"base": 62,
+				"effort": 0
+			},
+			"attack": {
+				"base": 95,
+				"effort": 1
+			},
+			"hp": {
+				"base": 73,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "brown",
+		"generation": 2
+	},
+	{
+		"id": 235,
+		"name": "Smeargle",
+		"species": "Painter Pokémon",
+		"weight": {
+			"lbs": "127.9 lbs",
+			"kg": "58.0 kg"
+		},
+		"types": [
+			1
+		],
+		"abilities": {
+			"normal": [
+				20,
+				101
+			],
+			"hidden": [
+				141
+			]
+		},
+		"eggGroups": [
+			"Ground"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 20,
+		"growthRate": "Fast",
+		"catchRate": 45,
+		"baseFriendship": 70,
+		"baseExp": 88,
+		"stats": {
+			"speed": {
+				"base": 75,
+				"effort": 1
+			},
+			"specialDefense": {
+				"base": 45,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 20,
+				"effort": 0
+			},
+			"defense": {
+				"base": 35,
+				"effort": 0
+			},
+			"attack": {
+				"base": 20,
+				"effort": 0
+			},
+			"hp": {
+				"base": 55,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "white",
+		"generation": 2
+	},
+	{
+		"id": 236,
+		"name": "Tyrogue",
+		"species": "Scuffle Pokémon",
+		"weight": {
+			"lbs": "46.3 lbs",
+			"kg": "21.0 kg"
+		},
+		"types": [
+			2
+		],
+		"abilities": {
+			"normal": [
+				62,
+				80
+			],
+			"hidden": [
+				72
+			]
+		},
+		"eggGroups": [
+			"No Eggs"
+		],
+		"genderRatio": "100% male 0% female",
+		"eggCycle": 25,
+		"growthRate": "Medium",
+		"catchRate": 75,
+		"baseFriendship": 70,
+		"baseExp": 42,
+		"stats": {
+			"speed": {
+				"base": 35,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 35,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 35,
+				"effort": 0
+			},
+			"defense": {
+				"base": 35,
+				"effort": 0
+			},
+			"attack": {
+				"base": 35,
+				"effort": 1
+			},
+			"hp": {
+				"base": 35,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "purple",
+		"generation": 2
+	},
+	{
+		"id": 237,
+		"name": "Hitmontop",
+		"species": "Handstand Pokémon",
+		"weight": {
+			"lbs": "105.8 lbs",
+			"kg": "48.0 kg"
+		},
+		"types": [
+			2
+		],
+		"abilities": {
+			"normal": [
+				22,
+				101
+			],
+			"hidden": [
+				80
+			]
+		},
+		"eggGroups": [
+			"Humanshape"
+		],
+		"genderRatio": "100% male 0% female",
+		"eggCycle": 25,
+		"growthRate": "Medium",
+		"catchRate": 45,
+		"baseFriendship": 70,
+		"baseExp": 159,
+		"stats": {
+			"speed": {
+				"base": 70,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 110,
+				"effort": 2
+			},
+			"specialAttack": {
+				"base": 35,
+				"effort": 0
+			},
+			"defense": {
+				"base": 95,
+				"effort": 0
+			},
+			"attack": {
+				"base": 95,
+				"effort": 0
+			},
+			"hp": {
+				"base": 50,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "brown",
+		"generation": 2
+	},
+	{
+		"id": 238,
+		"name": "Smoochum",
+		"species": "Kiss Pokémon",
+		"weight": {
+			"lbs": "13.2 lbs",
+			"kg": "6.0 kg"
+		},
+		"types": [
+			15,
+			14
+		],
+		"abilities": {
+			"normal": [
+				12,
+				108
+			],
+			"hidden": [
+				93
+			]
+		},
+		"eggGroups": [
+			"No Eggs"
+		],
+		"genderRatio": "0% male 100% female",
+		"eggCycle": 25,
+		"growthRate": "Medium",
+		"catchRate": 45,
+		"baseFriendship": 70,
+		"baseExp": 61,
+		"stats": {
+			"speed": {
+				"base": 65,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 65,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 85,
+				"effort": 1
+			},
+			"defense": {
+				"base": 15,
+				"effort": 0
+			},
+			"attack": {
+				"base": 30,
+				"effort": 0
+			},
+			"hp": {
+				"base": 45,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "pink",
+		"generation": 2
+	},
+	{
+		"id": 239,
+		"name": "Elekid",
+		"species": "Electric Pokémon",
+		"weight": {
+			"lbs": "51.8 lbs",
+			"kg": "23.5 kg"
+		},
+		"types": [
+			13
+		],
+		"abilities": {
+			"normal": [
+				9
+			],
+			"hidden": [
+				72
+			]
+		},
+		"eggGroups": [
+			"No Eggs"
+		],
+		"genderRatio": "75% male 25% female",
+		"eggCycle": 25,
+		"growthRate": "Medium",
+		"catchRate": 45,
+		"baseFriendship": 70,
+		"baseExp": 72,
+		"stats": {
+			"speed": {
+				"base": 95,
+				"effort": 1
+			},
+			"specialDefense": {
+				"base": 55,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 65,
+				"effort": 0
+			},
+			"defense": {
+				"base": 37,
+				"effort": 0
+			},
+			"attack": {
+				"base": 63,
+				"effort": 0
+			},
+			"hp": {
+				"base": 45,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "yellow",
+		"generation": 2
+	},
+	{
+		"id": 240,
+		"name": "Magby",
+		"species": "Live Coal Pokémon",
+		"weight": {
+			"lbs": "47.2 lbs",
+			"kg": "21.4 kg"
+		},
+		"types": [
+			10
+		],
+		"abilities": {
+			"normal": [
+				49
+			],
+			"hidden": [
+				72
+			]
+		},
+		"eggGroups": [
+			"No Eggs"
+		],
+		"genderRatio": "75% male 25% female",
+		"eggCycle": 25,
+		"growthRate": "Medium",
+		"catchRate": 45,
+		"baseFriendship": 70,
+		"baseExp": 73,
+		"stats": {
+			"speed": {
+				"base": 83,
+				"effort": 1
+			},
+			"specialDefense": {
+				"base": 55,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 70,
+				"effort": 0
+			},
+			"defense": {
+				"base": 37,
+				"effort": 0
+			},
+			"attack": {
+				"base": 75,
+				"effort": 0
+			},
+			"hp": {
+				"base": 45,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "red",
+		"generation": 2
+	},
+	{
+		"id": 241,
+		"name": "Miltank",
+		"species": "Milk Cow Pokémon",
+		"weight": {
+			"lbs": "166.4 lbs",
+			"kg": "75.5 kg"
+		},
+		"types": [
+			1
+		],
+		"abilities": {
+			"normal": [
+				47,
+				113
+			],
+			"hidden": [
+				157
+			]
+		},
+		"eggGroups": [
+			"Ground"
+		],
+		"genderRatio": "0% male 100% female",
+		"eggCycle": 20,
+		"growthRate": "Slow",
+		"catchRate": 45,
+		"baseFriendship": 70,
+		"baseExp": 172,
+		"stats": {
+			"speed": {
+				"base": 100,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 70,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 40,
+				"effort": 0
+			},
+			"defense": {
+				"base": 105,
+				"effort": 2
+			},
+			"attack": {
+				"base": 80,
+				"effort": 0
+			},
+			"hp": {
+				"base": 95,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "pink",
+		"generation": 2
+	},
+	{
+		"id": 242,
+		"name": "Blissey",
+		"species": "Happiness Pokémon",
+		"weight": {
+			"lbs": "103.2 lbs",
+			"kg": "46.8 kg"
+		},
+		"types": [
+			1
+		],
+		"abilities": {
+			"normal": [
+				30,
+				32
+			],
+			"hidden": [
+				131
+			]
+		},
+		"eggGroups": [
+			"Fairy"
+		],
+		"genderRatio": "0% male 100% female",
+		"eggCycle": 40,
+		"growthRate": "Fast",
+		"catchRate": 30,
+		"baseFriendship": 140,
+		"baseExp": 608,
+		"stats": {
+			"speed": {
+				"base": 55,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 135,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 75,
+				"effort": 0
+			},
+			"defense": {
+				"base": 10,
+				"effort": 0
+			},
+			"attack": {
+				"base": 10,
+				"effort": 0
+			},
+			"hp": {
+				"base": 255,
+				"effort": 3
+			}
+		},
+		"pokedexColor": "pink",
+		"generation": 2
+	},
+	{
+		"id": 243,
+		"name": "Raikou",
+		"species": "Thunder Pokémon",
+		"weight": {
+			"lbs": "392.4 lbs",
+			"kg": "178.0 kg"
+		},
+		"types": [
+			13
+		],
+		"abilities": {
+			"normal": [
+				46
+			],
+			"hidden": [
+				39
+			]
+		},
+		"eggGroups": [
+			"No Eggs"
+		],
+		"genderRatio": "Genderless",
+		"eggCycle": 80,
+		"growthRate": "Slow",
+		"catchRate": 3,
+		"baseFriendship": 35,
+		"baseExp": 261,
+		"stats": {
+			"speed": {
+				"base": 115,
+				"effort": 2
+			},
+			"specialDefense": {
+				"base": 100,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 115,
+				"effort": 1
+			},
+			"defense": {
+				"base": 75,
+				"effort": 0
+			},
+			"attack": {
+				"base": 85,
+				"effort": 0
+			},
+			"hp": {
+				"base": 90,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "yellow",
+		"generation": 2
+	},
+	{
+		"id": 244,
+		"name": "Entei",
+		"species": "Volcano Pokémon",
+		"weight": {
+			"lbs": "436.5 lbs",
+			"kg": "198.0 kg"
+		},
+		"types": [
+			10
+		],
+		"abilities": {
+			"normal": [
+				46
+			],
+			"hidden": [
+				39
+			]
+		},
+		"eggGroups": [
+			"No Eggs"
+		],
+		"genderRatio": "Genderless",
+		"eggCycle": 80,
+		"growthRate": "Slow",
+		"catchRate": 3,
+		"baseFriendship": 35,
+		"baseExp": 261,
+		"stats": {
+			"speed": {
+				"base": 100,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 75,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 90,
+				"effort": 0
+			},
+			"defense": {
+				"base": 85,
+				"effort": 0
+			},
+			"attack": {
+				"base": 115,
+				"effort": 2
+			},
+			"hp": {
+				"base": 115,
+				"effort": 1
+			}
+		},
+		"pokedexColor": "brown",
+		"generation": 2
+	},
+	{
+		"id": 245,
+		"name": "Suicune",
+		"species": "Aurora Pokémon",
+		"weight": {
+			"lbs": "412.3 lbs",
+			"kg": "187.0 kg"
+		},
+		"types": [
+			11
+		],
+		"abilities": {
+			"normal": [
+				46
+			],
+			"hidden": [
+				39
+			]
+		},
+		"eggGroups": [
+			"No Eggs"
+		],
+		"genderRatio": "Genderless",
+		"eggCycle": 80,
+		"growthRate": "Slow",
+		"catchRate": 3,
+		"baseFriendship": 35,
+		"baseExp": 261,
+		"stats": {
+			"speed": {
+				"base": 85,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 115,
+				"effort": 2
+			},
+			"specialAttack": {
+				"base": 90,
+				"effort": 0
+			},
+			"defense": {
+				"base": 115,
+				"effort": 1
+			},
+			"attack": {
+				"base": 75,
+				"effort": 0
+			},
+			"hp": {
+				"base": 100,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "blue",
+		"generation": 2
+	},
+	{
+		"id": 246,
+		"name": "Larvitar",
+		"species": "Rock Skin Pokémon",
+		"weight": {
+			"lbs": "158.7 lbs",
+			"kg": "72.0 kg"
+		},
+		"types": [
+			6,
+			5
+		],
+		"abilities": {
+			"normal": [
+				62
+			],
+			"hidden": [
+				8
+			]
+		},
+		"eggGroups": [
+			"Monster"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 40,
+		"growthRate": "Slow",
+		"catchRate": 45,
+		"baseFriendship": 35,
+		"baseExp": 60,
+		"stats": {
+			"speed": {
+				"base": 41,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 50,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 45,
+				"effort": 0
+			},
+			"defense": {
+				"base": 50,
+				"effort": 0
+			},
+			"attack": {
+				"base": 64,
+				"effort": 1
+			},
+			"hp": {
+				"base": 50,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "green",
+		"generation": 2
+	},
+	{
+		"id": 247,
+		"name": "Pupitar",
+		"species": "Hard Shell Pokémon",
+		"weight": {
+			"lbs": "335.1 lbs",
+			"kg": "152.0 kg"
+		},
+		"types": [
+			6,
+			5
+		],
+		"abilities": {
+			"normal": [
+				61
+			],
+			"hidden": []
+		},
+		"eggGroups": [
+			"Monster"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 40,
+		"growthRate": "Slow",
+		"catchRate": 45,
+		"baseFriendship": 35,
+		"baseExp": 144,
+		"stats": {
+			"speed": {
+				"base": 51,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 70,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 65,
+				"effort": 0
+			},
+			"defense": {
+				"base": 70,
+				"effort": 0
+			},
+			"attack": {
+				"base": 84,
+				"effort": 2
+			},
+			"hp": {
+				"base": 70,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "gray",
+		"generation": 2
+	},
+	{
+		"id": 248,
+		"name": "Tyranitar",
+		"species": "Armor Pokémon",
+		"weight": {
+			"lbs": "445.3 lbs",
+			"kg": "202.0 kg"
+		},
+		"types": [
+			6,
+			17
+		],
+		"abilities": {
+			"normal": [
+				45
+			],
+			"hidden": [
+				127
+			]
+		},
+		"eggGroups": [
+			"Monster"
+		],
+		"genderRatio": "50% male 50% female",
+		"eggCycle": 40,
+		"growthRate": "Slow",
+		"catchRate": 45,
+		"baseFriendship": 35,
+		"baseExp": 270,
+		"stats": {
+			"speed": {
+				"base": 61,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 100,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 95,
+				"effort": 0
+			},
+			"defense": {
+				"base": 110,
+				"effort": 0
+			},
+			"attack": {
+				"base": 134,
+				"effort": 3
+			},
+			"hp": {
+				"base": 100,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "green",
+		"generation": 2
+	},
+	{
+		"id": 249,
+		"name": "Lugia",
+		"species": "Diving Pokémon",
+		"weight": {
+			"lbs": "476.2 lbs",
+			"kg": "216.0 kg"
+		},
+		"types": [
+			14,
+			3
+		],
+		"abilities": {
+			"normal": [
+				46
+			],
+			"hidden": [
+				136
+			]
+		},
+		"eggGroups": [
+			"No Eggs"
+		],
+		"genderRatio": "Genderless",
+		"eggCycle": 120,
+		"growthRate": "Slow",
+		"catchRate": 3,
+		"baseFriendship": 0,
+		"baseExp": 306,
+		"stats": {
+			"speed": {
+				"base": 110,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 154,
+				"effort": 3
+			},
+			"specialAttack": {
+				"base": 90,
+				"effort": 0
+			},
+			"defense": {
+				"base": 130,
+				"effort": 0
+			},
+			"attack": {
+				"base": 90,
+				"effort": 0
+			},
+			"hp": {
+				"base": 106,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "white",
+		"generation": 2
+	},
+	{
+		"id": 250,
+		"name": "Ho-Oh",
+		"species": "Rainbow Pokémon",
+		"weight": {
+			"lbs": "438.7 lbs",
+			"kg": "199.0 kg"
+		},
+		"types": [
+			10,
+			3
+		],
+		"abilities": {
+			"normal": [
+				46
+			],
+			"hidden": [
+				144
+			]
+		},
+		"eggGroups": [
+			"No Eggs"
+		],
+		"genderRatio": "Genderless",
+		"eggCycle": 120,
+		"growthRate": "Slow",
+		"catchRate": 3,
+		"baseFriendship": 0,
+		"baseExp": 306,
+		"stats": {
+			"speed": {
+				"base": 90,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 154,
+				"effort": 3
+			},
+			"specialAttack": {
+				"base": 110,
+				"effort": 0
+			},
+			"defense": {
+				"base": 90,
+				"effort": 0
+			},
+			"attack": {
+				"base": 130,
+				"effort": 0
+			},
+			"hp": {
+				"base": 106,
+				"effort": 0
+			}
+		},
+		"pokedexColor": "red",
+		"generation": 2
+	},
+	{
+		"id": 251,
+		"name": "Celebi",
+		"species": "Time Travel Pokémon",
+		"weight": {
+			"lbs": "11 lbs",
+			"kg": "5.0 kg"
+		},
+		"types": [
+			14,
+			12
+		],
+		"abilities": {
+			"normal": [
+				30
+			],
+			"hidden": []
+		},
+		"eggGroups": [
+			"No Eggs"
+		],
+		"genderRatio": "Genderless",
+		"eggCycle": 120,
+		"growthRate": "Medium Slow",
+		"catchRate": 45,
+		"baseFriendship": 100,
+		"baseExp": 270,
+		"stats": {
+			"speed": {
+				"base": 100,
+				"effort": 0
+			},
+			"specialDefense": {
+				"base": 100,
+				"effort": 0
+			},
+			"specialAttack": {
+				"base": 100,
+				"effort": 0
+			},
+			"defense": {
+				"base": 100,
+				"effort": 0
+			},
+			"attack": {
+				"base": 100,
+				"effort": 0
+			},
+			"hp": {
+				"base": 100,
+				"effort": 3
+			}
+		},
+		"pokedexColor": "green",
+		"generation": 2
+	}
+]
